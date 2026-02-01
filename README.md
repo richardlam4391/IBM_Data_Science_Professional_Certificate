@@ -19,7 +19,7 @@ Chapter 5: [Python Project for Data Science](https://www.coursera.org/learn/pyth
 
 Chapter 6: [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst)
 
-Chapter 7: [Data Analyst with Python](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-analyst)
+Chapter 7: [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-analyst)
 
 Chapter 8: [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-analyst)
 
