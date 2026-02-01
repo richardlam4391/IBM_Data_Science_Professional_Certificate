@@ -3,8 +3,38 @@
 ## Professional Certificate
 The IBM Data Science Professional Certificate is an online course program that helps the beginning learners to prepare for the entry-level data science career role. The learners know how to use the data science tools, including SQL and Python, and gain technical experiences in data cleaning, data visualizations, machine learning and statistical analysis. There are 12 chapters in this online course program. 
 
-## Files
-These files are from this online course program in Coursera.   
+## Key Skills
+- SQL
+
+- Dashboard
+
+- Professional Networking
+
+- Model Evaluation
+
+- Exploratory Data Analysis
+
+- Data Transformation
+
+- Unsupervised Learning
+
+- Jupyter
+
+- Interactive Data Analysis
+
+- Data Transformation
+
+- Unsupervised Learning
+
+- Jupyter
+
+- Interactive Data Visualization
+
+- Plotly
+
+- Supervised Learning
+
+- Data Cleansing
 
 ## Chapters
 Chapter 1: [What is Data Science?](https://www.coursera.org/learn/what-is-datascience/paidmedia?specialization=ibm-data-science)
