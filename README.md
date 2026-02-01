@@ -1,4 +1,4 @@
-###### IBM-Data-Analyst-Professional-Certificate
+# IBM-Data-Analyst-Professional-Certificate
 
 ## Professional Certificate
 The IBM Data Science Professional Certificate is an online course program that helps the beginning learners to prepare for the entry-level data science career role. The learners know how to use the data science tools, including SQL and Python, and gain technical experiences in data cleaning, data visualizations, machine learning and statistical analysis. There are 12 chapters in this online course program. 
