@@ -7,7 +7,7 @@ The IBM Data Science Professional Certificate is an online course program that h
 These files are from this online course program in Coursera.   
 
 ## Chapters
-Chapter 1: [What is Data Science?]((https://www.coursera.org/learn/what-is-datascience/paidmedia?specialization=ibm-data-science))
+Chapter 1: [What is Data Science?](https://www.coursera.org/learn/what-is-datascience/paidmedia?specialization=ibm-data-science)
 
 Chapter 2: [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science/paidmedia?specialization=ibm-data-science)
 
