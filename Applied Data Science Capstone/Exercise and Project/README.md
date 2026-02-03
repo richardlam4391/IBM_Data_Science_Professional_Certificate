@@ -1,1 +1,1 @@
-Here's the files and project from IBM Data Science Professional Certificate in Coursera. 
+Many labs, assignments and projects are on the list of this folder
