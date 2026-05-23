@@ -1,5 +1,5 @@
 Many projects are on the list of this folder
-### Title: Predicting What House's Price Will Be in Brooklyn, New York
+### Title: House Sales in King County, USA 
 Date Completed: May 2025
 #### Core Tasks
 - Using Python Library, which is Pandas, to load the real estate dataset.
