@@ -1,5 +1,5 @@
 Many projects are on the list of this folder
-### Title: Public Schools, Crime and Socioeconomic Data Anlysis in Chicago, Illnois
+### Title: Chicago Socioeconomic Data
 Date Completed: April 2025
 #### Core Tasks
 - Utilized Structured Query Language (SQL) to write queries and to find the satety correlations. 
