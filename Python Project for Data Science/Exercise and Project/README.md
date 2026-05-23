@@ -1,5 +1,5 @@
 Many projects are on the list of this folder
-### Title: Extracting and Visualizing Stock Data by the Comparison Between Gamestop and Tesla
+### Title: Extracting and Visualizing Stock Data
 Date Completed: April 2025
 #### Core Tasks
 - Utilize Python library, which is yfinance, to download the dataset from the financial history. 
