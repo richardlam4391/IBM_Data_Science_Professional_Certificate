@@ -5,4 +5,4 @@ Many projects are on the list of this folder
 - Utilize Python library, which is Plotly Dash, to create the functional dashboard on the website.
 - Perform the programmatic apps to dynamically change layouts and graphs baosed on user dropdown selections. 
 #### Tableau
-[Historical Automoblie Sales](https://public.tableau.com/app/profile/richardlam4391/viz/AutomobileSalesStatisticsDashboard/Dashboard1)
+[Recession Statistics and Yearly Statistics Automobile Sales Statistics Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/RecessionStatisticsandYearlyStatisticsAutomobileSalesStatisticsDashboard/Dashboard1)
