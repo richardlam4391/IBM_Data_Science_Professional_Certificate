@@ -1,5 +1,6 @@
 Many projects are on the list of this folder
 ### Title: Historical Automobile Sales
+Completed Date: May 2025
 #### Core Tasks
 - Utilized two Python libraries, which are Matplotlib and Seaborn, to visualize the data and to make a graph.
 - Utilize Python library, which is Plotly Dash, to create the functional dashboard on the website.
