@@ -25,7 +25,7 @@ The IBM Data Science Professional Certificate is an online course program that h
 
 - [Applied Data Science Capstone](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
 
-- Generative AI: Enhance yout Data Science Career
+- [Generative AI: Enhance yout Data Science Career](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career)
 
 - Data Scientist Career Guide and Interview Prepartion
 
