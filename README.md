@@ -21,7 +21,7 @@ The IBM Data Science Professional Certificate is an online course program that h
 
 - Data Visualization with Python
 
-- Machine Learning with Python
+- [Machine Learning with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)
 
 - [Applied Data Science Capstone](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
 
