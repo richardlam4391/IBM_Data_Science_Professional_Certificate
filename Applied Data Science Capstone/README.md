@@ -44,4 +44,4 @@ Date Completed: October 2025
 
 ## Graph from Tableau Public
 
-![Winning Space Race with Data Science Dashboard](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/SpaceX%20Dashboard.png)
+![Winning Space Race with Data Science Dashboard](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/SpaceX%20Dashboard%20(2).png)
