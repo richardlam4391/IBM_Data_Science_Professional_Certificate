@@ -38,4 +38,4 @@ Date Completed: October 2025
 - Utilized Sqlite3 to evaluate the database of successful landing outcome and to determine the outcome success or failure in the launch sites
 - Applied statistical hypothesis testing to evaluate launch site features and landing outcomes. 
 
-[Dashboard: SpaceX](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard1)
+[Winning Space Race with Data Science Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard1)
