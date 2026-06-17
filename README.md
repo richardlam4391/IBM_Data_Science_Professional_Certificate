@@ -29,32 +29,33 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 * Created interactive dashboards within Matplotlib, Seaborn, Plotly, and Dash.
 * **Key Lab:** Built a dashboard tracking historical automobile sales trends during recession periods.
 
-
 ### 4. Python Project for Data Science
 * Focused on understanding the data fundamentals and structures and extracted the data from a dataset within yfiance and webscraping
 *  **Key Lab:** Extracted stock and revenue data and plot stocks and revenue graphs
 
+### 5. Machine Learning with Python
+* Analyzed the real-world dataset to build the classifier pipelines
+* **Key Lab:** Evaluate the machine learning model accuracy and to identify the best rainfall classifier pipelines
+
 ---
 
-## 🏆 Capstone Project: [The Analysis of Current and Future Trends in Technical Skills](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
+## 🏆 Capstone Project: [Winning Space Race with Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
 
 ### 📌 Project Overview
-Provide a brief summary of your final Capstone Project. Who was the stakeholder, and what did you achieve?
-* **Business Case:** Creating interactive dashboards to present the technology tools for many people with different age and education in present and future
-* **Methodology:** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Created a comprehensive dashboard in IBM Cognos.
+* **Business Case:** The space company wants to know if the first stage will land successfully.
+* **Methodology:** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Built the classifier pipelines and evaluated the machine learning model.
 
 ### 🛠️ Capstone Deliverables & Process
-1. **Data Collection:** Scraped data from job boards using `BeautifulSoup` and pulled live data using APIs.
-2. **Data Wrangling & EDA:** Handled duplicates, missing values, and outliers in a Jupyter Notebook.
-3. **Data Visualization:** Developed an interactive dashboard visualizing demographic profiles, top languages, and salary distributions.
-4. **Final Presentation:** Delivered a data-driven slide deck recommending technical focus areas for the upcoming year.
+* **Data Ingestion:** Python, REST APIs (SpaceX JSON API), BeautifulSoup (Web Scraping)
+* **Exploratory Analytics:** SQL (IBM Db2 / SQLite)
+* **Data Wrangling & Analysis:** Pandas, NumPy (Handling duplicates, missing values, and numeric outliers)
+* **Machine Learning:** `Scikit-Learn (Logistic Regression, SVM, Decision Trees, KNN)`, `GridSearchCV`
+* **Data Visualization & Dashboards:** Matplotlib, Seaborn, Plotly Dash, Folium
+* **Reporting:** PowerPoint/PDF executive slide presentations
 
-> 📊 **Dashboard View:** [The Analysis of Current and Future Trends in Technical Skills Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
+> 📊 **Dashboard View:** [Winning Space Race with Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
 
-![Current Technology Usage](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Current%20Technology%20Usage.png)
-![Future Technology Trend](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Future%20Technology%20Trends.png)
-![Demographics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Demographics.png)
-
+![Winning Space Race with Data Science Dashboard](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/SpaceX%20Dashboard%20(2).png)
 ---
 ## Course Topics 
 
@@ -81,46 +82,4 @@ Provide a brief summary of your final Capstone Project. Who was the stakeholder,
 - [Generative AI: Enhance yout Data Science Career](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career)
 
 - [Data Scientist Career Guide and Interview Prepartion](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation)
-
-## Key Skills
-- SQL
-
-- Dashboard
-
-- Professional Networking
-
-- Model Evaluation
-
-- Exploratory Data Analysis
-
-- Data Transformation
-
-- Unsupervised Learning
-
-- Jupyter
-
-- Interactive Data Analysis
-
-- Data Transformation
-
-- Unsupervised Learning
-
-- Jupyter
-
-- Interactive Data Visualization
-
-- Plotly
-
-- Supervised Learning
-
-- Data Cleansing
-
-## Tools 
-- Dashboard
-
-- Jupyter
-
-- Plotly
-
-- Generative AI
 
