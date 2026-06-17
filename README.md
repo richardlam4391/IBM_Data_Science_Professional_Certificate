@@ -53,9 +53,10 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 * **Data Visualization & Dashboards:** Matplotlib, Seaborn, Plotly Dash, Folium
 * **Reporting:** PowerPoint/PDF executive slide presentations
 
-> 📊 **Dashboard View:** [Winning Space Race with Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
+📊 **Dashboard View:** [Winning Space Race with Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
 
 ![Winning Space Race with Data Science Dashboard](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/SpaceX%20Dashboard%20(2).png)
+
 ---
 ## Course Topics 
 
