@@ -9,9 +9,30 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 ---
 
 ## 🛠️ Core Technical Arsenal
-* **Languages:** Python (Pandas, NumPy, SciPy), SQL (IBM Db2, PostgreSQL)
-* **Libraries & Frameworks:** Scikit-Learn, Folium, Beautiful Soup, Plotly Dash, Matplotlib, Seaborn
-* **Methodologies:** Supervised Machine Learning (Regression, Classification, Support Vector Machines, Decision Trees), Exploratory Data Analysis (EDA), Predictive Pipeline Engineering
+* **Languages:** Python (Pandas, NumPy, Beautiful Soup, Seaborn, Matplotlib), SQL (MySQL, IBM Db2)
+* **Data Tools:** Microsoft Excel, Jupyter Notebooks, Web Scraping, APIs
+* **Data Visualization & Dashboards:** Dash / Plotly
+
+---
+
+## 🗂️ Program Structure & Completed Modules
+
+### 1. Data Analysis with Python
+* Cleaned the data and analyzed real-world datasets through exploratory data analysis (EDA) and statistcal analysis
+* **Key Lab:** Used Pandas and Scikit-Learn to analyze and predict housing prices.
+
+### 2. Databases and SQL for Data Science with Python
+* Wrote queries and databases with Structure Query Language (SQL) techniques, including IBM Db2 and MySQL.
+* **Key Lab:** Analyzed real-world socio-economic and public school datasets for the city of Chicago.
+
+### 3. Data Visualization with Python
+* Created interactive dashboards within Matplotlib, Seaborn, Plotly, and Dash.
+* **Key Lab:** Built a dashboard tracking historical automobile sales trends during recession periods.
+
+
+### 4. Python Project for Data Science
+* Focused on understanding the data fundamentals and structures and extracted the data from a dataset within yfiance and webscraping
+*  **Key Lab:** Extracted stock and revenue data and plot stocks and revenue graphs
 
 ---
 
