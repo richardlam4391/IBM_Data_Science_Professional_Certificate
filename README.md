@@ -8,7 +8,7 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 
 ---
 
-## 🛠️ Core Technical Arsenal
+## 🛠️ Key Technical Skills Acquired
 * **Languages:** Python (Pandas, NumPy, Beautiful Soup, Seaborn, Matplotlib), SQL (MySQL, IBM Db2)
 * **Data Tools:** Microsoft Excel, Jupyter Notebooks, Web Scraping, APIs
 * **Data Visualization & Dashboards:** Dash / Plotly
