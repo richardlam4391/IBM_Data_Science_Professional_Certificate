@@ -31,5 +31,10 @@ The project demonstrates to complete Machine Learning workflow—spanning featur
 * **Data Ingestion & Transformation:** `Pandas`
 * **Evaluation Visualizations:** `Matplotlib`, `Seaborn`
 
+---
 
+## 📂 Repository Structure
+```text
+├── FinalProject_AUSWeather.ipynb                                     # Completed Jyputer Notebook of the course project
+└── README.md                                                         # Whole project documentation and courseworks 
 
