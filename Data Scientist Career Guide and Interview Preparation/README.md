@@ -1,30 +1,19 @@
- Details of Data Analyst Career Guide and Interview Preparation 
+# Data Scientist Career Guide and Interview Preparation 
 
 This course tells you how to preapre for the Data Science Career 
 
-## Key Skills
+This repository consolidating technical data structures, conceptual system breakdowns, behavioral storytelling frameworks, and case study approaches compiled during my career preparation phase. This completed in October 2025.
 
-- Portfolio Management
+---
 
-- Writing
+### Core Components:
+* **Technical Crib Sheets:** Core reminders and optimal performance strategies for SQL, Python, and Excel pipelines.
+* **The Business Analytics Layer:** Case study approaches, metric selection heuristics, and business performance tracking formulas.
+* **Behavioral Matrix:** Structured professional narratives built via the STAR (Situation, Task, Action, Result) methodology.
 
-- Data Science
+---
 
-- Recruitment
-
-- Problem Solving
-
-- Communication
-
-- Job Analysis
-
-- Interviewing Skills
-
-- Python Programming
-
-- Company, Product, Service Knowledge
-
-- Professional Networking
-
-- Business Research 
+## 📂 Repository Structure
+```text
+├── README.md                     #Whole project documentation and courseworks
 
