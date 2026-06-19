@@ -60,21 +60,21 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 ---
 ## Course Topics 
 
-- [What is Data Science](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/What%20is%20Data%20Science)
+- [What is Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/What%20is%20Data%20Science)
 
-- [Tools for Data Science](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Tools%20for%20Data%20Science)
+- [Tools for Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Tools%20for%20Data%20Science)
 
-- [Data Science Methodolgy](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Data%20Science%20Methodology) 
+- [Data Science Methodolgy](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Science%20Methodology) 
 
-- [Python for Data Science, AI and Development](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Python%20for%20Data%20Science%2C%20AI%20and%20Development)
+- [Python for Data Science, AI and Development](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Python%20for%20Data%20Science%2C%20AI%20and%20Development)
 
-- [Python Project for Data Science](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Python%20Project%20for%20Data%20Science)
+- [Python Project for Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Python%20Project%20for%20Data%20Science)
 
-- [Databases and SQL for Data Science with Python](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+- [Databases and SQL for Data Science with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
-- [Data Analysis with Python](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)
+- [Data Analysis with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Analysis%20with%20Python)
 
-- [Data Visualization with Python](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python)
+- [Data Visualization with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Visualization%20with%20Python)
 
 - [Machine Learning with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)
 
