@@ -1,86 +1,67 @@
-# IBM-Data-Science-Professional-Certificate
+# IBM Data Science Professional Certificate Portfolio
 
-The IBM Data Science Professional Certificate is an online course program that helps the beginning learners to prepare for the entry-level data science career role. The learners know how to use the data science tools, including SQL and Python, and gain technical experiences in data cleaning, data visualizations, machine learning and statistical analysis. There are 12 chapters in this online course program. 
+Welcome to my portfolio repository documenting my journey and projects completed during the **IBM Data Science Professional Certificate** program on Coursera. 
 
-This repository contains non-capstone and capstone projects completed during the IBM Data Science Professional Certificate program on Coursera in October 2025.
-
-The program focuses on practical, hands-on learning of data analysis tools, methodologies, and real-world problem-solving.
+This intensive 12-course program provides hands-on, job-ready training across the complete data science lifecycle—moving from initial business understanding and SQL database operations to predictive modeling and machine learning deployment.
 
 ---
 
-## 🛠️ Key Technical Skills Acquired
-* **Languages:** Python (Pandas, NumPy, Beautiful Soup, Seaborn, Matplotlib), SQL (MySQL, IBM Db2)
-* **Data Tools:** Microsoft Excel, Jupyter Notebooks, Web Scraping, APIs
-* **Data Visualization & Dashboards:** Dash / Plotly
+## 🚀 Key Skills Gained
+
+* **Machine Learning Pipeline Engineering:** Implementing, tuning, and evaluating classical supervised and unsupervised ML models.
+* **Exploratory Data Analysis (EDA) & Feature Engineering:** Handling missing values, analyzing mathematical distributions, removing anomalies, and optimizing features through One-Hot Encoding and normalization.
+* **Data Science Methodology:** Using industry frameworks like **CRISP-DM** to translate ambiguous business questions into systematic, iterative analytical steps.
+* **Data Extraction & Wrangling:** Automating extraction of unstructured data using web scraping (`BeautifulSoup`) and cleaning multi-source data through **Pandas** and **NumPy**.
+* **Geospatial & Dynamic Visualization:** Tracking location clusters on interactive maps and creating multi-variable dashboards to surface hidden trends.
 
 ---
 
-## 🗂️ Program Structure & Completed Modules
+## 🛠️ Tools & Technologies
 
-### 1. Data Analysis with Python
-* Cleaned the data and analyzed real-world datasets through exploratory data analysis (EDA) and statistcal analysis
-* **Key Lab:** Used Pandas and Scikit-Learn to analyze and predict housing prices.
-
-### 2. Databases and SQL for Data Science with Python
-* Wrote queries and databases with Structure Query Language (SQL) techniques, including IBM Db2 and MySQL.
-* **Key Lab:** Analyzed real-world socio-economic and public school datasets for the city of Chicago.
-
-### 3. Data Visualization with Python
-* Created interactive dashboards within Matplotlib, Seaborn, Plotly, and Dash.
-* **Key Lab:** Built a dashboard tracking historical automobile sales trends during recession periods.
-
-### 4. Python Project for Data Science
-* Focused on understanding the data fundamentals and structures and extracted the data from a dataset within yfiance and webscraping
-*  **Key Lab:** Extracted stock and revenue data and plot stocks and revenue graphs
-
-### 5. Machine Learning with Python
-* Analyzed the real-world dataset to build the classifier pipelines
-* **Key Lab:** Evaluate the machine learning model accuracy and to identify the best rainfall classifier pipelines
+* **Languages:** Python, SQL
+* **Machine Learning & Stats:** Scikit-learn, SciPy
+* **Data Processing:** Pandas, NumPy
+* **Data Visualization:** Matplotlib, Seaborn, Folium (Geospatial maps), Plotly, Plotly Dash (Interactive Dashboards)
+* **Databases & Environments:** SQLite, IBM Db2 Cloud, JupyterLab, Jupyter Notebooks, VS Code, Git
+* **AI & Automation:** Generative AI for prompt engineering, script automation, and analytical storytelling
 
 ---
 
-## 🏆 Capstone Project: [Winning Space Race with Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
+## 📂 Curriculum & Repository Structure
 
-### 📌 Project Overview
-* **Business Case:** The space company wants to know if the first stage will land successfully.
-* **Methodology:** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Built the classifier pipelines and evaluated the machine learning model.
+The repository is organized numerically to show the structured progression from fundamental principles to predictive algorithmic modeling:
 
-### 🛠️ Capstone Deliverables & Process
-* **Data Ingestion:** Python, REST APIs (SpaceX JSON API), BeautifulSoup (Web Scraping)
-* **Exploratory Analytics:** SQL (IBM Db2 / SQLite)
-* **Data Wrangling & Analysis:** Pandas, NumPy (Handling duplicates, missing values, and numeric outliers)
-* **Machine Learning:** `Scikit-Learn (Logistic Regression, SVM, Decision Trees, KNN)`, `GridSearchCV`
-* **Data Visualization & Dashboards:** Matplotlib, Seaborn, Plotly Dash, Folium
-* **Reporting:** PowerPoint/PDF executive slide presentations
-
-📊 **Dashboard View:** [Winning Space Race with Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
-
-![Winning Space Race with Data Science Dashboard](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/SpaceX%20Dashboard%20(2).png)
+| # | Course Module | Core Focus / Technologies | Status |
+| :--- | :--- | :--- | :---: |
+| **01** | What is Data Science? | Defining data roles, impact, and applications. | ✅ Completed in June 2025 |
+| **02** | Tools for Data Science | Cloud-based workflows (JupyterLab, Git/GitHub, RStudio). | ✅ Completed in June 2025 |
+| **03** | Data Science Methodology | Data-to-deployment workflow modeling under CRISP-DM frameworks. | ✅ Completed in June 2025 |
+| **04** | Python for Data Science & AI | Logic, loops, structural data types, and file input/output routines. | ✅ Completed in April 2025 |
+| **05** | Python Project for Data Science | Extract-Transform-Load (ETL) and stock market dashboard scraping. | ✅ Completed in April 2025 |
+| **06** | Databases & SQL with Python | Multi-table JOINs, subqueries, and database API hooks. | ✅ Completed in April 2025 |
+| **07** | Data Analysis with Python | Statistical tests, ANOVA, correlation metrics, and basic regressions. | ✅ Completed in May 2025 |
+| **08** | Data Visualization with Python | Folium area heat maps and full Plotly Dash analytics portals. | ✅ Completed in May 2025 |
+| **09** | Machine Learning with Python | Classification, clustering algorithms, and hyperparameter tuning. | ✅ Completed in October 2025 |
+| **10** | **Applied Data Science Capstone** | End-to-end SpaceX rocket landing prediction (Details below). | ✅ Completed in October 2025 |
+| **11** | Generative AI Career Elevate | AI-assisted code generation, data synthesis, and storytelling. | ✅ Completed in October 2025 |
+| **12** | Career Guide & Interview Prep | Code reviews, portfolio synthesis, and technical interview simulations. | ✅ Completed in October 2025 |
 
 ---
-## Course Topics 
 
-- [What is Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/What%20is%20Data%20Science)
+## 🏆 Portfolio Highlight: Applied Data Science Capstone
+### 🚀 SpaceX Falcon 9 First-Stage Landing Prediction
 
-- [Tools for Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Tools%20for%20Data%20Science)
+The program's capstone project involves a comprehensive application of data science techniques to solve a real-world commercial problem: **predicting whether the first stage of a SpaceX Falcon 9 rocket will land successfully.** Because first-stage reuse saves SpaceX roughly $115 million per launch, predicting success allows us to calculate accurate competitive launch costs.
 
-- [Data Science Methodolgy](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Science%20Methodology) 
+#### Key Phases Executed:
+1. **Data Acquisition:** Integrated data via REST API calls from the SpaceX API and extracted complementary rocket specifications using web scraping (`BeautifulSoup`).
+2. **Data Cleansing & Preprocessing:** Standardized the target variable into an actionable binary classification format (`1` = landed, `0` = failed) and processed features using **One-Hot Encoding**.
+3. **Exploratory Data Analysis (EDA):** Discovered insights using SQL queries to break down success rates relative to launch site locations, total payload masses, and orbit classifications.
+4. **Geospatial & Dashboard Analysis:** Deployed **Folium** maps to highlight launch pad positioning relative to coastal margins and created a fully interactive **Plotly Dash** dashboard containing range-slider constraints on total weight metrics.
+5. **Machine Learning Classification:** Trained and optimized four predictive classification frameworks utilizing `GridSearchCV` to tune optimal parameters:
+    * *Logistic Regression*
+    * *Support Vector Machine (SVM)*
+    * *Decision Tree Classifier*
+    * *K-Nearest Neighbors (KNN)*
 
-- [Python for Data Science, AI and Development](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Python%20for%20Data%20Science%2C%20AI%20and%20Development)
-
-- [Python Project for Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Python%20Project%20for%20Data%20Science)
-
-- [Databases and SQL for Data Science with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-
-- [Data Analysis with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Analysis%20with%20Python)
-
-- [Data Visualization with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Visualization%20with%20Python)
-
-- [Machine Learning with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)
-
-- [Applied Data Science Capstone](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
-
-- [Generative AI: Enhance yout Data Science Career](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career)
-
-- [Data Scientist Career Guide and Interview Prepartion](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation)
-
+👉 **Explore the code, notebooks, and final presentation:** [Winning Space Race with Data Science]([./10_Applied_Data_Science_Capstone/](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone))
