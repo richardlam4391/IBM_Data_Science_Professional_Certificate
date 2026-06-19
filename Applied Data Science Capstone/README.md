@@ -1,4 +1,4 @@
-# Details of Applied Data Science Capstone
+# Applied Data Science Capstone
 
 ## Title: Winning Space Race with Data Science
 
