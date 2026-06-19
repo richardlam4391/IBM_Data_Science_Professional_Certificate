@@ -1,6 +1,6 @@
 # Details of Applied Data Science Capstone
 
-## Winning Space Race with Data Science
+## Title: Winning Space Race with Data Science
 
 This course tells you how to utilize data science and analysis tools to prepare for the project. 
 
