@@ -2,7 +2,7 @@
 
 ## Title: Historical Automobile Sales
 
-**Data Visualization with Python** contains building static statistical graphics, interactive web charts, and custom geospatial maps using the Python visualization ecosystem. 
+**Data Visualization with Python** contains building static statistical graphics, interactive web charts, and custom geospatial maps using the Python visualization ecosystem. This completed in May 2025.
 
 The project demonstrates to transition from basic descriptive plots to interactive data applications and ensure that business stakeholders can easily slice, filter, and interpret many dimensions data.
 
