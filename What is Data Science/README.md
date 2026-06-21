@@ -1,6 +1,6 @@
 # What is Data Science
 
-**What is Data Science** serves as the foundational orientation for the IBM Data Science track. 
+**What is Data Science** serves as the foundational orientation for the IBM Data Science track. This completed in June 2025. 
 
 ---
 
