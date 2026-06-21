@@ -31,20 +31,20 @@ This intensive 12-course program provides hands-on, job-ready training across th
 
 The repository is organized numerically to show the structured progression from fundamental principles to predictive algorithmic modeling:
 
-| # | Course Module | Core Focus / Technologies | Status |
-| :--- | :--- | :--- | :---: |
-| **01** | What is Data Science? | Defining data roles, impact, and applications. | ✅ Completed in June 2025 |
-| **02** | Tools for Data Science | Cloud-based workflows (JupyterLab, Git/GitHub, RStudio). | ✅ Completed in June 2025 |
-| **03** | Data Science Methodology | Data-to-deployment workflow modeling under CRISP-DM frameworks. | ✅ Completed in June 2025 |
-| **04** | Python for Data Science & AI | Logic, loops, structural data types, and file input/output routines. | ✅ Completed in April 2025 |
-| **05** | Python Project for Data Science | Extract-Transform-Load (ETL) and stock market dashboard scraping. | ✅ Completed in April 2025 |
-| **06** | Databases & SQL with Python | Multi-table JOINs, subqueries, and database API hooks. | ✅ Completed in April 2025 |
-| **07** | Data Analysis with Python | Statistical tests, ANOVA, correlation metrics, and basic regressions. | ✅ Completed in May 2025 |
-| **08** | Data Visualization with Python | Folium area heat maps and full Plotly Dash analytics portals. | ✅ Completed in May 2025 |
-| **09** | Machine Learning with Python | Classification, clustering algorithms, and hyperparameter tuning. | ✅ Completed in October 2025 |
-| **10** | **Applied Data Science Capstone** | End-to-end SpaceX rocket landing prediction (Details below). | ✅ Completed in October 2025 |
-| **11** | Generative AI Career Elevate | AI-assisted code generation, data synthesis, and storytelling. | ✅ Completed in October 2025 |
-| **12** | Career Guide & Interview Prep | Code reviews, portfolio synthesis, and technical interview simulations. | ✅ Completed in October 2025 |
+| # | Course Module | Status |
+| :--- | :--- | :---: |
+| **01** | What is Data Science? | ✅ Completed in June 2025 |
+| **02** | Tools for Data Science | ✅ Completed in June 2025 |
+| **03** | Data Science Methodology | ✅ Completed in June 2025 |
+| **04** | Python for Data Science & AI | ✅ Completed in April 2025 |
+| **05** | Python Project for Data Science | ✅ Completed in April 2025 |
+| **06** | Databases & SQL with Python | ✅ Completed in April 2025 |
+| **07** | Data Analysis with Python | ✅ Completed in May 2025 |
+| **08** | Data Visualization with Python | ✅ Completed in May 2025 |
+| **09** | Machine Learning with Python | ✅ Completed in October 2025 |
+| **10** | **Applied Data Science Capstone** | ✅ Completed in October 2025 |
+| **11** | Generative AI Career Elevate | ✅ Completed in October 2025 |
+| **12** | Career Guide & Interview Prep | ✅ Completed in October 2025 |
 
 ---
 
