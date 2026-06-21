@@ -1,8 +1,6 @@
 # Data Scientist Career Guide and Interview Preparation 
 
-This course tells you how to preapre for the Data Science Career 
-
-This repository consolidating technical data structures, conceptual system breakdowns, behavioral storytelling frameworks, and case study approaches compiled during my career preparation phase. This completed in October 2025.
+**Data Scientist Career Guide and Interview Preparation** consolidating technical data structures, conceptual system breakdowns, behavioral storytelling frameworks, and case study approaches compiled during my career preparation phase. This completed in October 2025.
 
 ---
 
@@ -13,7 +11,7 @@ This repository consolidating technical data structures, conceptual system break
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── README.md                     #Whole project documentation and courseworks
 
