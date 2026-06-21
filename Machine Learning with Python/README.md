@@ -1,10 +1,8 @@
-# Details of Machine Learning with Python
+# Machine Learning with Python
 
 ## Title: Building a Rainfall Prediction Classifier
 
-This course tells you how to understand the key concepts and techniques of machine learning. 
-
-This repository contains implementing, evaluating, and tuning supervised and unsupervised algorithms using the Python data science stack. This is completed in October 2025.
+**Machine Learning with Python** contains implementing, evaluating, and tuning supervised and unsupervised algorithms using the Python data science stack. This is completed in October 2025.
 
 The project demonstrates to complete Machine Learning workflow—spanning feature engineering, algorithm training, mathematical optimization, and rigorous statistical evaluation.
 
@@ -25,7 +23,7 @@ The project demonstrates to complete Machine Learning workflow—spanning featur
 
 ---
 
-## 🛠️ Tech Stack & Core Libraries
+## Tech Stack & Core Libraries
 * **Machine Learning Engine:** `Scikit-Learn`
 * **Mathematical Operations:** `NumPy`, `SciPy`
 * **Data Ingestion & Transformation:** `Pandas`
@@ -33,7 +31,7 @@ The project demonstrates to complete Machine Learning workflow—spanning featur
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── FinalProject_AUSWeather.ipynb                                     # Completed Jyputer Notebook of the course project
 └── README.md                                                         # Whole project documentation and courseworks 
