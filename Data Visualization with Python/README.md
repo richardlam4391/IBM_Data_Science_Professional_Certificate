@@ -47,10 +47,10 @@ The project demonstrates to transition from basic descriptive plots to interacti
 
 ## Repository Structure
 ```text
-├── DV0101EN-Final-Assign-Part-2-Questions.py.2                       # Completed plotly file of the course project
-├── Lab5c Final Project.ipynb                                         # Completed Jyputer Notebook of the course project
-├── Regression Period Statistics (1).png                              # Image file of the course project
-├── Yearly Statistics.png                                             # Image file of the course project
-└── README.md                                                         # Whole project documentation and courseworks 
+├── DV0101EN-Final-Assign-Part-2-Questions.py.2             # Completed plotly file of the course project
+├── Lab5c Final Project.ipynb                               # Completed Jyputer Notebook of the course project
+├── Regression Period Statistics (1).png                    # Image file of the course project
+├── Yearly Statistics.png                                   # Image file of the course project
+└── README.md                                               # Whole project documentation and courseworks
 
 
