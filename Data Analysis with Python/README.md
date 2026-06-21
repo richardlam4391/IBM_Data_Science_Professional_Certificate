@@ -2,9 +2,7 @@
 
 ## Title: House Sales in King County, USA
 
-This course tells you how to clean and to preare the data and analyze real-world datasets through exploratory data analysis (EDA) and statistcal analysis. 
-
-This repository contains importing, cleaning, exploring, and building data models on real-world datasets completed in May 2025. 
+**Data Analysis with Python** contains importing, cleaning, exploring, and building data models on real-world datasets completed in May 2025. 
 
 The project demonstrates the ability to transition from unclear dataset into structured statistical testing and to culminate in machine learning model optimization.
 
@@ -26,7 +24,7 @@ The project demonstrates the ability to transition from unclear dataset into str
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 * **Data Manipulation:** `Pandas`, `NumPy`
 * **Statistical Analysis & ML:** `Scipy`, `Scikit-Learn`
 * **Data Visualization:** `Matplotlib`, `Seaborn`
@@ -34,7 +32,7 @@ The project demonstrates the ability to transition from unclear dataset into str
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── Lab6b Project.ipynb                                               # Completed Jyputer Notebook of the course project
 └── README.md                                                         # Whole project documentation and courseworks 
