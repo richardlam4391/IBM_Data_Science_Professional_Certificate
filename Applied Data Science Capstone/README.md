@@ -2,9 +2,7 @@
 
 ## Title: Winning Space Race with Data Science
 
-This course tells you how to utilize data science and analysis tools to prepare for the project. 
-
-This repository contains my final capstone project for the **IBM Data Science Professional Certificate**. The objective of this project was to predict whether the first stage of a SpaceX Falcon 9 rocket will land successfully. This was completed in October 2025. 
+**IBM Data Science Professional Certificate** contains my final capstone project. The objective of this project was to predict whether the first stage of a SpaceX Falcon 9 rocket will land successfully. This was completed in October 2025. 
 
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of $62 million, whereas other providers cost upwards of $165 million. Much of the savings is because SpaceX can reuse the first stage. By predicting rocket landing success, we can determine the cost of a launch and provide data-driven insights for an alternate commercial space launch company competing against SpaceX.
 
@@ -37,7 +35,7 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of $62 mil
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── Richard Lam Data Science Capstone Project.pdf                  # PDF file of the capstone project
 ├── Richard Lam Data Science Capstone Project.ppptx                # Powerpoints file of the capstone project
