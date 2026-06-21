@@ -1,10 +1,8 @@
-# Python for Data Visualization with Python
+# Data Visualization with Python
 
 ## Title: Historical Automobile Sales
 
-This course tells you how to make different types of charts, graphs and plots and to generate interactive dashboards within the data visualizations in Python. 
-
-This repository contains building static statistical graphics, interactive web charts, and custom geospatial maps using the Python visualization ecosystem. 
+**Data Visualization with Python** contains building static statistical graphics, interactive web charts, and custom geospatial maps using the Python visualization ecosystem. 
 
 The project demonstrates to transition from basic descriptive plots to interactive data applications and ensure that business stakeholders can easily slice, filter, and interpret many dimensions data.
 
@@ -47,7 +45,7 @@ The project demonstrates to transition from basic descriptive plots to interacti
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── DV0101EN-Final-Assign-Part-2-Questions.py.2                       # Completed plotly file of the course project
 ├── Lab5c Final Project.ipynb                                         # Completed Jyputer Notebook of the course project
