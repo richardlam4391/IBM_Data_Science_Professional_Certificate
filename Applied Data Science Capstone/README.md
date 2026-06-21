@@ -37,15 +37,15 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of $62 mil
 
 ## Repository Structure
 ```text
-├── Richard Lam Data Science Capstone Project.pdf                  # PDF file of the capstone project
-├── Richard Lam Data Science Capstone Project.ppptx                # Powerpoints file of the capstone project
-├── SpaceX Dashboard (2).png                                       # Image file of the course project
-├── SpaceX_Machine Learning Prediction_Part_5.ipynb                # Completed Jyputer Notebook of the capstone project
-├── edadataviz.ipynb                                               # Completed Jyputer Notebook of the capstone project
-├── jupyter-labs-eda-sql-coursera_sqlite.ipynb                     # Completed Jyputer Notebook of the capstone project
-├── jupyter-labs-spacex-data-collection-api.ipynb                  # Completed Jyputer Notebook of the capstone project
-├── jupyter-kab-webscraping.ipynb                                  # Completed Jyputer Notebook of the capstone project
-├── lab_jupyter_launch_site_location.ipynb                         # Completed Jyputer Notebook of the capstone project
-├── labs-jupyter-spacex-Data wrangling.ipynb                       # Completed Jyputer Notebook of the capstone project
-├── spacex-dash-app.py                                             # Completed plotly file of the capstone project
-└── README.md                                                      # Project documentation and courseworks overview
+├── Richard Lam Data Science Capstone Project.pdf           # PDF file of the capstone project
+├── Richard Lam Data Science Capstone Project.ppptx         # Powerpoints file of the capstone project
+├── SpaceX Dashboard (2).png                                # Image file of the course project
+├── SpaceX_Machine Learning Prediction_Part_5.ipynb         # Completed Jyputer Notebook of the capstone project
+├── edadataviz.ipynb                                        # Completed Jyputer Notebook of the capstone project
+├── jupyter-labs-eda-sql-coursera_sqlite.ipynb              # Completed Jyputer Notebook of the capstone project
+├── jupyter-labs-spacex-data-collection-api.ipynb           # Completed Jyputer Notebook of the capstone project
+├── jupyter-kab-webscraping.ipynb                           # Completed Jyputer Notebook of the capstone project
+├── lab_jupyter_launch_site_location.ipynb                  # Completed Jyputer Notebook of the capstone project
+├── labs-jupyter-spacex-Data wrangling.ipynb                # Completed Jyputer Notebook of the capstone project
+├── spacex-dash-app.py                                      # Completed plotly file of the capstone project
+└── README.md                                               # Whole project documentation and courseworks
