@@ -6,7 +6,7 @@ This intensive 12-course program provides hands-on, job-ready training across th
 
 ---
 
-## 🚀 Key Skills Gained
+## Key Skills Gained
 
 * **Machine Learning Pipeline Engineering:** Implementing, tuning, and evaluating classical supervised and unsupervised ML models.
 * **Exploratory Data Analysis (EDA) & Feature Engineering:** Handling missing values, analyzing mathematical distributions, removing anomalies, and optimizing features through One-Hot Encoding and normalization.
@@ -16,7 +16,7 @@ This intensive 12-course program provides hands-on, job-ready training across th
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Languages:** Python, SQL
 * **Machine Learning & Stats:** Scikit-learn, SciPy
@@ -27,7 +27,7 @@ This intensive 12-course program provides hands-on, job-ready training across th
 
 ---
 
-## 📂 Curriculum & Repository Structure
+## Curriculum & Repository Structure
 
 The repository is organized numerically to show the structured progression from fundamental principles to predictive algorithmic modeling:
 
@@ -48,8 +48,8 @@ The repository is organized numerically to show the structured progression from 
 
 ---
 
-## 🏆 Portfolio Highlight: Applied Data Science Capstone
-### 🚀 SpaceX Falcon 9 First-Stage Landing Prediction
+## Portfolio Highlight: Applied Data Science Capstone
+### SpaceX Falcon 9 First-Stage Landing Prediction
 
 The program's capstone project involves a comprehensive application of data science techniques to solve a real-world commercial problem: **predicting whether the first stage of a SpaceX Falcon 9 rocket will land successfully.** Because first-stage reuse saves SpaceX roughly $115 million per launch, predicting success allows us to calculate accurate competitive launch costs.
 
@@ -64,4 +64,4 @@ The program's capstone project involves a comprehensive application of data scie
     * *Decision Tree Classifier*
     * *K-Nearest Neighbors (KNN)*
 
-👉 **Explore the code, notebooks, and final presentation:** [Winning Space Race with Data Science]([./10_Applied_Data_Science_Capstone/](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone))
+**Explore the code, notebooks, and final presentation:** [Winning Space Race with Data Science]([./10_Applied_Data_Science_Capstone/](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone))
