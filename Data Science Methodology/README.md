@@ -1,12 +1,10 @@
 # Data Science Methodology
 
-This course tells you why methodology is important for data science career roles. 
-
-This repository contains case-study portfolio demonstrating how to apply a rigorous, iterative framework to real-world data science problems. This completed in June 2025. 
+**Data Science Methodology** contains case-study portfolio demonstrating how to apply a rigorous, iterative framework to real-world data science problems. This completed in June 2025. 
 
 ---
 
-## 🎯 Core Objectives
+## Core Objectives
 The primary objective of this project is to model a problem through all 10 stages of the Data Science Methodology to ensure accuracy, reproducibility, and business alignment:
 
 1. **Business Understanding:** Clearly define the business problem and the ultimate goal of the stakeholders.
@@ -18,15 +16,15 @@ The primary objective of this project is to model a problem through all 10 stage
 
 ---
 
-## 🛠️ Technical Skills 
+## Technical Skills 
 
-### 🧠 Methodological Frameworks
+### Methodological Frameworks
 * **The IBM Data Science Methodology** - Mastery of the 10-stage iterative pipeline designed by John Rollins.
 * **Problem Formulation** - Translating vague business requirements into concrete, measurable analytical objectives.
 * **Iterative Pipeline Design** - Understanding how to use the feedback loop to return to previous stages (e.g., shifting from Modeling back to Data Preparation) when model performance stalls.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── README.md                     #Whole project documentation and courseworks
