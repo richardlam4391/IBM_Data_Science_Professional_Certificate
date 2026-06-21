@@ -33,6 +33,6 @@ The project demonstrates to complete Machine Learning workflow—spanning featur
 
 ## Repository Structure
 ```text
-├── FinalProject_AUSWeather.ipynb                                     # Completed Jyputer Notebook of the course project
-└── README.md                                                         # Whole project documentation and courseworks 
+├── FinalProject_AUSWeather.ipynb                           # Completed Jyputer Notebook of the course project
+└── README.md                                               # Whole project documentation and courseworks
 
