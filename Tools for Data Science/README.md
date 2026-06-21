@@ -1,12 +1,10 @@
 # Tools for Data Science
 
-This course tells you why data science tool kits are useful for the data science career roles. 
-
-This project contains a practical portfolio demonstrating my ability to navigate, set up, and utilize essential data science tools. This completed in June 2025. 
+**Tools for Data Science** contains a practical portfolio demonstrating my ability to navigate, set up, and utilize essential data science tools. This completed in June 2025. 
 
 ---
 
-## 🎯 Core Objectives
+## Core Objectives
 Aligned with professional data team standards, the primary objectives achieved in this course include:
 
 1. **Ecosystem Architecture:** Identify and understand the distinct roles of open-source, commercial, and cloud-based tools across the entire data science lifecycle.
@@ -17,25 +15,25 @@ Aligned with professional data team standards, the primary objectives achieved i
 
 ---
 
-## 🛠️ Technical Skills 
+## Technical Skills 
 
-### 💻 Languages & Environments
+### Languages & Environments
 * **Python** - For general-purpose data manipulation, machine learning, and automation.
 * **R / RStudio** - For statistical computing, data analysis, and visualization.
 * **SQL** - For database querying, management, and relational data extraction.
 * **Jupyter Notebooks / JupyterLab** - As the primary interactive, web-based computing environment for building and sharing live code documents.
 
-### 🌐 Cloud & Collaboration Platforms
+### Cloud & Collaboration Platforms
 * **IBM Watson Studio (Cloud Pak for Data)** - Utilized for building cloud-hosted notebooks, collaborating on datasets, and centralizing data assets.
 * **Anaconda Navigator** - For local package management, environment isolation, and software deployment.
 
-### 🔧 Version Control & Markdown
+### Version Control & Markdown
 * **Git** - For local repository tracking, committing changes, and version history.
 * **GitHub** - As the remote hosting service for repository publishing and portfolio presentation.
 * **Markdown** - For writing structured, clear, and professional project documentation.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```text
 ├── README.md                                                         # Whole project documentation and courseworks 
