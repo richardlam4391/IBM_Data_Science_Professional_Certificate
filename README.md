@@ -32,7 +32,7 @@ This intensive 12-course program provides hands-on, job-ready training across th
 The repository is organized numerically to show the structured progression from fundamental principles to predictive algorithmic modeling:
 
 | # | Course Module | Status |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- |
 | **01** | What is Data Science? | ✅ Completed in June 2025 |
 | **02** | Tools for Data Science | ✅ Completed in June 2025 |
 | **03** | Data Science Methodology | ✅ Completed in June 2025 |
