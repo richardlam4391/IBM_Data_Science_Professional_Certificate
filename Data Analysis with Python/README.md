@@ -34,5 +34,5 @@ The project demonstrates the ability to transition from unclear dataset into str
 
 ## Repository Structure
 ```text
-├── Lab6b Project.ipynb                                               # Completed Jyputer Notebook of the course project
-└── README.md                                                         # Whole project documentation and courseworks 
+├── Lab6b Project.ipynb                                     # Completed Jyputer Notebook of the course project
+└── README.md                                               # Whole project documentation and courseworks
