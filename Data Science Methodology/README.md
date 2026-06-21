@@ -27,4 +27,4 @@ The primary objective of this project is to model a problem through all 10 stage
 
 ## Repository Structure
 ```text
-├── README.md                     #Whole project documentation and courseworks
+└── README.md                                               # Whole project documentation and courseworks
