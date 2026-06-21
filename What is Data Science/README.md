@@ -25,4 +25,4 @@ While this course is primarily conceptual, it introduces the operational framewo
 
 ## Repository Organization
 ```text
-├── README.md                     #Whole project documentation and courseworks
+└── README.md                                               # Whole project documentation and courseworks
