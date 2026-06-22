@@ -57,3 +57,37 @@ The core objective of this project is to predict whether the first stage of a Fa
 - `IBM Data Analyst Capstone Project Tableau.pdf` — Dashboard documentation
 - Dashboard exports (PNG files)
 - Dashboard plotly (PY files)
+
+---
+
+## 📊 Data Sources
+
+**SpaceX REST API** - Sourced granular flight attributes, core usage histories, landing intentions, specific block upgrades, and structural outcome variables.
+
+**Wikipedia Web Scraping** - Parsed historical launch data tables via BeautifulSoup to manually extract and align supplementary payload metrics and record logs.
+
+**Relational Storage** - Exported processed records into an internal SQLite3 instance to easily run multi-table joins, aggregate payload windows, and filter out outlier target metrics.
+
+---
+
+## 💡 Key Skills Demonstrated
+
+✅ **End-to-End Data Pipeline Architecture** - Orchestrated raw scraping, API polling, feature scaling, algorithmic tuning, and dashboard development into a clean, reproducible stack.
+✅ **Statistical Machine Learning** - Implemented multi-model comparative analysis, handled categorical values via one-hot encoding, and utilized confusion matrices to measure precision/recall drop-offs.
+✅ **Interactive Geospatial/BI Design** - Engineered geometric coordinate clusters, custom distance algorithms, marker overlays, and dynamic data filtering elements across mapping scripts and production visualization suites.
+
+---
+
+## 📈 Visualization Highlights
+
+The Tableau dashboard includes:
+- **Tableau Public Dashboard** - A dynamic, multi-view dashboard analyzing payload distributions, success profiles by location, and correlated launch trajectories.
+- **Folium Interactive Maps** - Geographical markers showcasing launch pad locations alongside coordinate markers calculating exact distances to coastlines and railways.
+
+---
+
+## 🔗 Links
+
+- **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard1)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
+- **Certification:** IBM Data Science Professional Certificate (Coursera)
