@@ -56,7 +56,7 @@ The core objective of this project is to predict whether the first stage of a Fa
 - `2025 Richard Lam Data Science Capstone Project.pdf` — Presentation PDF
 - `IBM Data Analyst Capstone Project Tableau.pdf` — Dashboard documentation
 - Dashboard exports (PNG files)
-- Dashboard plotly (PY files)
+- Dashboard plotly (py files)
 
 ---
 
