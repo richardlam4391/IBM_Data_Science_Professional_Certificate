@@ -54,7 +54,7 @@ This project serves as the final capstone element for the **Python Project for D
 
 ## 📈 Visualization Highlights
 
-- **Historical Share Price Char** - A clean, time-series line plot tracking closing values across the company's lifespan.
+- **Historical Share Price Chart** - A clean, time-series line plot tracking closing values across the company's lifespan.
 - **Historical Revenue Chart** - A matching timeline bar or line chart tracking actual revenue figures side-by-side.
 
 ---
