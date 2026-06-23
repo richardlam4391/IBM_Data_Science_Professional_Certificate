@@ -6,11 +6,13 @@
 ---
 
 ## 📌 Course Overview
+
 This project serves as the final capstone element for the **Python Project for Data Science** mini-course, a key module within the **IBM Data Science Professional Certificate**. In this project, I assumed the role of a Data Analyst / Data Scientist tasked with extracting essential financial data from public companies (specifically Tesla and GameStop) to analyze performance trends. The project demonstrates a complete programmatic pipeline: gathering stock data using libraries, web scraping historical revenue records, processing text into clean data frames, and building a consolidated visual dashboard to compare price movements against financial revenue trends.
 
 ---
 
 ## 🎯 Key Findings
+
 * **Tesla (TSLA):** Historical stock trends reveal massive, exponential valuation growth starting around 2020. This trajectory closely mimics the aggressive, multi-billion dollar upward trend seen in their parsed revenue metrics, showcasing a strong correlation between operational scaling and market capitalization.
 * **GameStop (GME):** The data captures the historical early-2021 volatility spike driven by retail trading dynamics. The visualization highlights a distinct divergence during this period, where stock prices surged exponentially without an equivalent underlying spike in quarterly company revenue.
 * **Data Synthesis:** Combining raw automated APIs with unstructured web scraped tables proves critical. Looking at stock graphs alone misses fundamental fiscal context; overlaying revenue graphs helps rapidly distinguish organic long-term growth from sudden market anomalies.
