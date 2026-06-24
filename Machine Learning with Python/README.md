@@ -15,7 +15,7 @@ The primary objective of this course was to transition from foundational data an
 
 ## 🔍 Key Findings
 
-Throughout the course, several predictive models were built and evaluated. Key insights include:
+* Throughout the course, several predictive models were built and evaluated. Key insights include:
 * **Classification Performance:** Evaluated multiple classification algorithms (KNN, Decision Trees, SVM, Logistic Regression) using metrics like Jaccard Score, F1-Score, and LogLoss. Found that non-linear classification boundaries (like RBF kernel in SVM) or ensemble-like structures often yielded higher accuracy on complex datasets compared to simple linear classifiers.
 * **Regression Modeling:** Developed linear, non-linear, and polynomial regression models to forecast continuous trends, optimizing performance by minimizing Mean Squared Error (MSE) and maximizing $R^2$ scores.
 * **Clustering Patterns:** Applied K-Means and Density-Based (DBSCAN) clustering to segment data without historical labels. K-Means effectively grouped spherical data clusters (e.g., customer segmentation), while DBSCAN excelled at identifying arbitrary shapes and filtering out noise/outliers.
