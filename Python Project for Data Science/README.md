@@ -23,8 +23,8 @@ This project serves as the final capstone element for the **Python Project for D
 
 | Category | Tools |
 |----------|-------|
-| **Language:** | Python 3.x |
-| **Data Extraction Libraries:** | `yfinance` (For programmatic API retrieval of stock splits, historical prices, and volume), 'BeautifulSoup4` & `requests` (For web scraping financial data from HTML tables) |
+| **Language** | Python 3.x |
+| **Data Extraction Libraries** | `yfinance` (For programmatic API retrieval of stock splits, historical prices, and volume), 'BeautifulSoup4` & `requests` (For web scraping financial data from HTML tables) |
 | **Data Manipulation & Processing** | `pandas`, `numpy` |
 | **Data Visualization** | `plotly.graph_objects` / `plotly.express` |
 | **Development Environment** | Jupyter Notebooks / Google Colab |
