@@ -51,10 +51,10 @@ This project focuses on harnessing the power of data visualization to extract me
 
 ## 💡 Key Skills Demonstrated
 
-**Exploratory Data Analysis (EDA)** Utilizing Python libraries to clean, group, and structure data for visual consumption.
-**Dashboard Architecture** Designing end-to-end interactive web applications using Dash layouts, core components (dcc), and HTML components.
-**Reactive Programming** Implementing Dash reactive callbacks to handle user inputs (e.g., dropdown selection, radio buttons) and update graphs in real time.
-**Geospatial Mapping** Generating interactive choropleth and marker maps using Folium to display regional data distributions.
+**Exploratory Data Analysis (EDA)** - Utilizing Python libraries to clean, group, and structure data for visual consumption.
+**Dashboard Architecture** - Designing end-to-end interactive web applications using Dash layouts, core components (dcc), and HTML components.
+**Reactive Programming** - Implementing Dash reactive callbacks to handle user inputs (e.g., dropdown selection, radio buttons) and update graphs in real time.
+**Geospatial Mapping** - Generating interactive choropleth and marker maps using Folium to display regional data distributions.
 
 ---
 
