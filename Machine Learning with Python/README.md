@@ -27,7 +27,7 @@ Throughout the course, several predictive models were built and evaluated. Key i
 | Category | Tools |
 |----------|-------|
 | **Language** | Python 3.x |
-| **Python Libraries** | `pandas`, `numpy` (**Data Manipulation**), `scikit-learn`, `scipy` (**Machine Learning**), `matplotlib`, `seaborn` (**Data Visualization**) |
+| **Python Libraries** | **Data Manipulation:** `pandas`, `numpy`, **Machine Learning:** `scikit-learn`, `scipy`, **Data Visualization:** `matplotlib`, `seaborn` |
 | **Environment** | Jupyter Notebooks / IBM Cloud Watson Studio |
 
 
