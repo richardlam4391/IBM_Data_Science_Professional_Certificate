@@ -67,5 +67,5 @@ Throughout the course, several predictive models were built and evaluated. Key i
  
 ## 🔗 Links
 
-- **Repository:** [GitHub]()
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)
 - **Certification:** IBM Data Science Professional Certificate (Coursera)
