@@ -67,5 +67,5 @@ Throughout the course, several predictive models were built and evaluated. Key i
  
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/edit/main/Python%20Project%20for%20Data%20Science/README.md)
+- **Repository:** [GitHub]()
 - **Certification:** IBM Data Science Professional Certificate (Coursera)
