@@ -51,19 +51,19 @@ This project focuses on harnessing the power of data visualization to extract me
 
 ## 💡 Key Skills Demonstrated
 
-**Exploratory Data Analysis (EDA)** - Utilizing Python libraries to clean, group, and structure data for visual consumption.
-**Dashboard Architecture** - Designing end-to-end interactive web applications using Dash layouts, core components (dcc), and HTML components.
-**Reactive Programming** - Implementing Dash reactive callbacks to handle user inputs (e.g., dropdown selection, radio buttons) and update graphs in real time.
-**Geospatial Mapping** - Generating interactive choropleth and marker maps using Folium to display regional data distributions.
+- **Exploratory Data Analysis (EDA)** - Utilizing Python libraries to clean, group, and structure data for visual consumption.
+- **Dashboard Architecture** - Designing end-to-end interactive web applications using Dash layouts, core components (dcc), and HTML components.
+- **Reactive Programming** - Implementing Dash reactive callbacks to handle user inputs (e.g., dropdown selection, radio buttons) and update graphs in real time.
+- **Geospatial Mapping** - Generating interactive choropleth and marker maps using Folium to display regional data distributions.
 
 ---
 
 ## 📈 Visualization Highlights
 
-**Line & Bar Charts** - Used to track trends over time, such as vehicle sales performance during recession vs. non-recession periods.
-**Pie & Bubble Charts** - Used to display total advertisement expenditure shares across different vehicle types.
-**Interactive Dash Dashboards** - Features real-time dropdown filtering, allowing stakeholders to seamlessly toggle between specific recession years or report types.
-**Folium Maps** - Used to visualize geographic patterns and density distributions of localized data events.
+- **Line & Bar Charts** - Used to track trends over time, such as vehicle sales performance during recession vs. non-recession periods.
+- **Pie & Bubble Charts** - Used to display total advertisement expenditure shares across different vehicle types.
+- **Interactive Dash Dashboards** - Features real-time dropdown filtering, allowing stakeholders to seamlessly toggle between specific recession years or report types.
+- **Folium Maps** - Used to visualize geographic patterns and density distributions of localized data events.
 
 ## 🔗 Links
 
