@@ -24,7 +24,7 @@ Throughout the course, several predictive models were built and evaluated. Key i
 
 ## 🛠️ Technical Stack
 
-* | Category | Tools |
+| Category | Tools |
 |----------|-------|
 | **Language** | Python 3.x |
 | **Python Libraries** | `pandas`, `numpy` (**Data Manipulation**), `scikit-learn`, `scipy` (**Machine Learning**), `matplotlib`, `seaborn` (**Data Visualization**) |
