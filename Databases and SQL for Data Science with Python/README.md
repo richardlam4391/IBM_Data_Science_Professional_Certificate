@@ -23,8 +23,8 @@ This module focuses on working with relational database systems, utilizing SQL (
 
 | Category | Tools |
 |----------|-------|
-| **Language:** | SQL, Python |
-| **DDatabase Management Systems** | IBM Db2 (Cloud/Lite), SQLite |
+| **Language** | SQL, Python |
+| **Database Management Systems** | IBM Db2 (Cloud/Lite), SQLite |
 | **Python Libraries** | ipython-sql (SQL Magic commands for Jupyter Notebooks), ibm_db & ibm_db_sa (IBM Db2 driver and SQLAlchemy adapter), pandas (Data manipulation and analysis), matplotlib / seaborn (Data visualization) |
 
 ---
