@@ -1,5 +1,5 @@
 # Machine Learning with Python
-## Title: Building a Rainfall Prediction Classifier
+## Building a Rainfall Prediction Classifier
 
 ---
 
@@ -36,7 +36,7 @@ Throughout the course, several predictive models were built and evaluated. Key i
 ## 📂 Project Structure
 
 ### Deliverables
-'FinalProject_AUSWeather.ipynb' -  Jupyter Notebook documentation
+- `FinalProject_AUSWeather.ipynb` -  Jupyter Notebook documentation
 
 ---
 
