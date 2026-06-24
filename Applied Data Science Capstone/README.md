@@ -79,7 +79,7 @@ The core objective of this project is to predict whether the first stage of a Fa
 ## 📈 Visualization Highlights
 
 - The Tableau dashboard includes:
-        *  **Tableau Public Dashboard** - A dynamic, multi-view dashboard analyzing payload distributions, success profiles by location, and correlated launch trajectories.
+        * **Tableau Public Dashboard** - A dynamic, multi-view dashboard analyzing payload distributions, success profiles by location, and correlated launch trajectories.
         * **Folium Interactive Maps** - Geographical markers showcasing launch pad locations alongside coordinate markers calculating exact distances to coastlines and railways.
 
 ---
