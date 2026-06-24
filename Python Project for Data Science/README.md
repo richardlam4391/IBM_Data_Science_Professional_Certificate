@@ -1,4 +1,4 @@
-# Python Project for Data Science: Stock & Revenue Data Analysis
+# Python Project for Data Science
 ## Extracting and Visualizing Stock Data
 
 **Completed:** April 2025 | **IBM Data Science Professional Certificate**
