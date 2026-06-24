@@ -1,38 +1,60 @@
 # Data Analysis with Python
+## House Sales in King County, USA
 
-## Title: House Sales in King County, USA
-
-**Data Analysis with Python** contains importing, cleaning, exploring, and building data models on real-world datasets completed in May 2025. 
-
-The project demonstrates the ability to transition from unclear dataset into structured statistical testing and to culminate in machine learning model optimization.
+---
+**Comnpleted:** May 2025 | **IBM Data Science Professional Certificate**
 
 ---
 
-## Core Tasks
-
-- Using Python Library, which is Pandas, to load the real estate dataset.
-- Wrangle data, identify missing data, replace null values with non-null values and normalize skewed values.
-- Use correlation matrice and regression to perform Exploratory Data Analysis (EDA) and to predict property values statistically. 
+## 🚀 Course Overview
+This module focuses on moving from raw data to actionable data-driven insights using Python's robust scientific ecosystem. The curriculum bridges the gap between basic data manipulation and statistical machine learning, focusing on cleaning messy datasets, identifying critical feature interactions, and building predictive models to estimate continuous variables.
 
 ---
 
-## Core Objectives:
-1. **Data Wrangling & Preprocessing:** Identify and handle missing values, normalize features, and transform data types.
-2. **Exploratory Data Analysis (EDA):** Utilize descriptive statistics, correlation matrices, and data visualizations to surface key underlying patterns.
-3. **Model Development:** Implement and compare Simple Linear Regression, Multiple Linear Regression, and Polynomial regressions.
-4. **Model Evaluation & Refinement:** Use Ridge Regression and Grid Search optimization to prevent overfitting and tune hyperparameters.
+## 🎯 Key Findings
+
+- Identified that features such as highway-mpg, engine-size, and horsepower share the strongest Pearson correlations with the target pricing index.Model
+- Moving from a Simple Linear Regression model to a Multiple Linear Regression model reduced the Mean Squared Error (MSE) significantly and boosted the $R^2$ score.
+- Applying Ridge Regression with optimized alpha hyperparameters via Grid Search successfully mitigated overfitting trends observed in high-degree polynomial regressions, establishing a highly robust model for deployment.
 
 ---
 
-## Technical Skills
-* **Data Manipulation:** `Pandas`, `NumPy`
-* **Statistical Analysis & ML:** `Scipy`, `Scikit-Learn`
-* **Data Visualization:** `Matplotlib`, `Seaborn`
-* **Environment:** `Jupyter Notebook`
+## 🛠️ Technical Stack
+
+| Category | Tools |
+|----------|-------|
+| **Language** | Python 3.x |
+| **Data Manipulation** | `pandas`, `NumPy`|
+| **Exploratory Data Analysis & Statistical Testing** | `SciPy` (ANOVA, Pearson Correlation) |
+| **Data Visualization** | `Matplotlib`, `Seaborn` |
+| **Machine Learning & Model Evaluation** | `scikit-learn` (Linear, Polynomial, Ridge Regression, Grid Search CV)|
+| **Environment** | Jupyter Notebooks / IBM Skills Network Labs |
 
 ---
 
-## Repository Structure
-```text
-├── Lab6b Project.ipynb                                     # Completed Jyputer Notebook of the course project
-└── README.md                                               # Whole project documentation and courseworks
+## Project Structure
+
+### Deliverables
+'Lab6b Project.ipynb' - Jupyter Notebook project 
+
+---
+
+## 📊 Data Source
+* **Primary Dataset** - Automobile Pricing Database / King County House Sales (Standard IBM Data Source)
+* **Description** - Contains comprehensive technical, structural, and performance metrics utilized to predict market valuations.
+* **Attributes** - Features a mix of categorical, continuous numerical, and discrete variables requiring format conversions and imputation.
+
+---
+
+## 📈 Key Skills Demonstrated
+1. **Data Wrangling & Quality Assurance** - Identifying and dropping/imputing missing values (`dropna()`, `fillna()`), standardizing units, normalizing numerical metrics (min-max / z-score), and data binning for categorical alignment.
+2. **Advanced Exploratory Data Analysis (EDA)** - Computing descriptive statistics, calculating Pearson correlation coefficients, and executing ANOVA (Analysis of Variance) tests to determine statistical significance between categorical groups and a target variable.
+3. **Predictive Modeling** - Developing Simple Linear Regression (SLR), Multiple Linear Regression (MLR), and multi-degree Polynomial models.
+4. **Model Regularization & Optimization** - Implementing Ridge Regression to prevent overfitting and using `GridSearchCV` for hyperparameter optimization.
+
+---
+
+## 🔗 Links
+
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Analysis%20with%20Python)
+- **Certification:** IBM Data Science Professional Certificate (Coursera)
