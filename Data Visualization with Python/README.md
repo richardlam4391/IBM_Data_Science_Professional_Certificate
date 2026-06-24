@@ -1,56 +1,61 @@
 # Data Visualization with Python
-
-## Title: Historical Automobile Sales
-
-**Data Visualization with Python** contains building static statistical graphics, interactive web charts, and custom geospatial maps using the Python visualization ecosystem. This completed in May 2025.
-
-The project demonstrates to transition from basic descriptive plots to interactive data applications and ensure that business stakeholders can easily slice, filter, and interpret many dimensions data.
+## Historical Automobile Sales
 
 ---
 
-## Core Tasks
-
-- Utilized two Python libraries, which are Matplotlib and Seaborn, to visualize the data and to make a graph.
-- Utilize Python library, which is Plotly Dash, and Tableau to create the interactive dashboard on the website.
-- Perform the programmatic apps to dynamically change layouts and graphs baosed on user dropdown selections.
+**Completed:** May 2025 | **IBM Data Science Professional Certificate**  
 
 ---
 
-## Core Objectives:
-1. **Exploratory Data Analysis (EDA):** Generate line, bar, scatter, pie, and histogram plots to understand raw data distributions.
-2. **Advanced Statistical Charting:** Leverage Seaborn for multi-plot grids, regression trends, and categorical distribution charts.
-3. **Geospatial Analysis:** Build interactive choropleth maps and marker clusters using Folium to track variables geographically.
-4. **Interactive Applications:** Develop unified dashboards using Plotly and Dash to allow user-driven real-time data exploration.
+## 🚀 Course Overview
+This project focuses on harnessing the power of data visualization to extract meaningful insights and effectively communicate data stories. Throughout this course, I learned how to analyze data and create both static and interactive visual representations. The curriculum covered fundamental visualization libraries like Matplotlib and Seaborn, advanced specialized visualizations (such as Waffle charts, Word Clouds, and Regression plots), and interactive web dashboards using Folium, Dash, and Plotly.
 
 ---
 
-## 🛠️ Technical Skills
-* **Core Visualization:** `Matplotlib` (Pyplot architecture), `Seaborn`
-* **Interactive Visualization:** `Plotly` (Express and Graph Objects)
-* **Web Dashboarding:** `Dash` (Components and Callbacks)
-* **Geospatial Mapping:** `Folium`
-* **Data Processing:** `Pandas`, `NumPy`
+## 🎯 Key Findings
+
+- Analysis of historical automobile sales showed a distinct dip in sales volumes during recession periods, with a pronounced impact on high-end vehicle categories.
+- Dashboards revealed that specific geographic regions responded differently to promotional campaigns, optimizing targeted advertising strategies.
+- Interactive maps successfully pinpointed high-density clusters of immigration trends and wildfire occurrences over the specified timelines.
 
 ---
 
+## 🛠️ Technical Stack
 
-## Link Tableau Public
-
-[Recession Statistics and Yearly Statistics Automobile Sales Statistics Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/RecessionStatisticsandYearlyStatisticsAutomobileSalesStatisticsDashboard/Dashboard1)
-
-## Graph from Tableau Public
-
-![Regression Period Statistics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20with%20Python/Regression%20Period%20Statistics%20(1).png)
-![Yearly Statistics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20with%20Python/Yearly%20Statistics.png)
+| Category | Tools |
+|----------|-------|
+| **Language** | Python 3.x |
+| **Data Manipulation** | `pandas`, `NumPy`|
+| **Exploratory Data Analysis & Statistical Testing** | `SciPy` (ANOVA, Pearson Correlation) |
+| **Data Visualization** | `Matplotlib`, `Seaborn` |
+| **Machine Learning & Model Evaluation** | `scikit-learn` (Linear, Polynomial, Ridge Regression, Grid Search CV)|
+| **Environment** | Jupyter Notebooks / IBM Skills Network Labs |
 
 ---
 
-## Repository Structure
-```text
-├── DV0101EN-Final-Assign-Part-2-Questions.py.2             # Completed plotly file of the course project
-├── Lab5c Final Project.ipynb                               # Completed Jyputer Notebook of the course project
-├── Regression Period Statistics (1).png                    # Image file of the course project
-├── Yearly Statistics.png                                   # Image file of the course project
-└── README.md                                               # Whole project documentation and courseworks
+## Project Structure
 
+### Deliverables
+'Lab6b Project.ipynb' - Jupyter Notebook project 
 
+---
+
+## 📊 Data Source
+* **Primary Dataset** - Automobile Pricing Database / King County House Sales (Standard IBM Data Source)
+* **Description** - Contains comprehensive technical, structural, and performance metrics utilized to predict market valuations.
+* **Attributes** - Features a mix of categorical, continuous numerical, and discrete variables requiring format conversions and imputation.
+
+---
+
+## 📈 Key Skills Demonstrated
+1. **Data Wrangling & Quality Assurance** - Identifying and dropping/imputing missing values (`dropna()`, `fillna()`), standardizing units, normalizing numerical metrics (min-max / z-score), and data binning for categorical alignment.
+2. **Advanced Exploratory Data Analysis (EDA)** - Computing descriptive statistics, calculating Pearson correlation coefficients, and executing ANOVA (Analysis of Variance) tests to determine statistical significance between categorical groups and a target variable.
+3. **Predictive Modeling** - Developing Simple Linear Regression (SLR), Multiple Linear Regression (MLR), and multi-degree Polynomial models.
+4. **Model Regularization & Optimization** - Implementing Ridge Regression to prevent overfitting and using `GridSearchCV` for hyperparameter optimization.
+
+---
+
+## 🔗 Links
+
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Analysis%20with%20Python)
+- **Certification:** IBM Data Science Professional Certificate (Coursera)
