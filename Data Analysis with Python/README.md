@@ -2,7 +2,7 @@
 ## House Sales in King County, USA
 
 ---
-**Comnpleted:** May 2025 | **IBM Data Science Professional Certificate**
+**Comnpleted:** May 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
 
@@ -58,9 +58,17 @@ This module focuses on moving from raw data to actionable data-driven insights u
 
 ## 📈 Visualization Highlights
 
-- **Feature Signification** - Identified that features such as highway-mpg, engine-size, and horsepower share the strongest Pearson correlations with the target pricing index.
-- **Model Selection** - Moving from a Simple Linear Regression model to a Multiple Linear Regression model reduced the Mean Squared Error (MSE) significantly and boosted the $R^2$ score.
-- **Regularization Impact** - Applying Ridge Regression with optimized alpha hyperparameters via Grid Search successfully mitigated overfitting trends observed in high-degree polynomial regressions, establishing a highly robust model for deployment.
+- Leveraging Matplotlib and Seaborn, the following visual assets were developed to unlock dataset narratives:
+
+    * **Regression Plots (sns.regplot)** - Utilized to isolate linear trends between continuous engine features and price.
+
+    * **Residual Plots (sns.residplot)** - Employed to analyze error variances and confirm the appropriateness of linear models versus polynomial transformations.
+
+    * **Distribution Plots (sns.kdeplot)** - Overlaid actual data targets against predicted outputs to visually assess model accuracy across different pricing brackets.
+
+    * **Box Plots (sns.boxplot)** - Created to observe variations in price distributions across categorical segments like drive-wheels or engine location.
+ 
+---
 
 ## 🔗 Links
 
