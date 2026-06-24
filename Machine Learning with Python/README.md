@@ -5,7 +5,7 @@
 
 **Completed:** October 2025 | **IBM Data Science Professional Certificate** 
 
-## 📌 Course Overview
+## 📊 Course Overview
 
 This repository contains the projects, lab notebooks, and assignments completed as part of the **Machine Learning with Python** course, a core component of the **IBM Data Science Professional Certificate**. 
 
@@ -13,7 +13,7 @@ The primary objective of this course was to transition from foundational data an
 
 ---
 
-## 🔍 Key Findings
+## 🎯 Key Findings
 
 * Throughout the course, several predictive models were built and evaluated. Key insights include:
   * **Classification Performance:** Evaluated multiple classification algorithms (KNN, Decision Trees, SVM, Logistic Regression) using metrics like Jaccard Score, F1-Score, and LogLoss. Found that non-linear classification boundaries (like RBF kernel in SVM) or ensemble-like structures often yielded higher accuracy on complex datasets compared to simple linear classifiers.
@@ -49,7 +49,7 @@ The primary objective of this course was to transition from foundational data an
  
 ---
 
-## 🏆 Key Skills Demonstrated
+## 💡 Key Skills Demonstrated
 - **Data Preprocessing & Feature Engineering** - Handling missing values, converting categorical variables into numerical formats (One-Hot Encoding), and normalizing data using StandardScaler.
 - **Supervised Learning** - Building and optimizing Regression and Classification models.
 - **Unsupervised Learning** - Pattern extraction and data segmentation using Clustering techniques.
