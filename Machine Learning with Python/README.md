@@ -60,4 +60,12 @@ Throughout the course, several predictive models were built and evaluated. Key i
 ## 📈 Visualization Highlights
 
 - Data visualizations were critical for interpreting model decisions and checking assumptions. Key visual assets included:
-  - Correlation Heatmaps: Leveraged seaborn heatmaps to detect multi-collinearity among features before training regression models.Decision Boundaries: Visualizing how different classifiers split data classes across two-dimensional feature spaces.Elbow Method Plots: Plotting within-cluster sum of squares (WCSS) against the number of clusters ($K$) to mathematically determine the optimal cluster count.Confusion Matrices: Detailed heatmaps mapping True Positives vs. False Positives to visually diagnose classification errors.
+  - **Correlation Heatmaps** - Leveraged seaborn heatmaps to detect multi-collinearity among features before training regression models.
+  - **Decision Boundaries** - Visualizing how different classifiers split data classes across two-dimensional feature spaces.
+  - **Elbow Method Plots** - Plotting within-cluster sum of squares (WCSS) against the number of clusters ($K$) to mathematically determine the optimal cluster count.
+  - **Confusion Matrices** - Detailed heatmaps mapping True Positives vs. False Positives to visually diagnose classification errors.
+ 
+## 🔗 Links
+
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/edit/main/Python%20Project%20for%20Data%20Science/README.md)
+- **Certification:** IBM Data Science Professional Certificate (Coursera)
