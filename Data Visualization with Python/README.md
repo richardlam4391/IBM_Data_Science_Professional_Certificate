@@ -26,36 +26,46 @@ This project focuses on harnessing the power of data visualization to extract me
 |----------|-------|
 | **Language** | Python 3.x |
 | **Data Manipulation** | `pandas`, `NumPy`|
-| **Exploratory Data Analysis & Statistical Testing** | `SciPy` (ANOVA, Pearson Correlation) |
+| **Static Visualization** | `mathplotlib`, 'seaborn' |
 | **Data Visualization** | `Matplotlib`, `Seaborn` |
-| **Machine Learning & Model Evaluation** | `scikit-learn` (Linear, Polynomial, Ridge Regression, Grid Search CV)|
-| **Environment** | Jupyter Notebooks / IBM Skills Network Labs |
+| **Advanced & Geospatial Visualization** | `folium`, 'wordcloud' |
+| **Interactive Dashboards** | 'plotly', dash |
 
 ---
 
 ## Project Structure
 
 ### Deliverables
-'Lab6b Project.ipynb' - Jupyter Notebook project 
+- `Lab5c Final Project` — Jupyter Notebook project
+- Dashboard exports (PNG files)
+- Dashboard plotly (py files)
 
 ---
 
 ## 📊 Data Source
-* **Primary Dataset** - Automobile Pricing Database / King County House Sales (Standard IBM Data Source)
-* **Description** - Contains comprehensive technical, structural, and performance metrics utilized to predict market valuations.
-* **Attributes** - Features a mix of categorical, continuous numerical, and discrete variables requiring format conversions and imputation.
+
+- The datasets utilized in this module include:
+  - **Historical Automobile Sales Data** - A specialized dataset containing variables such as Year, Recession Stage, Vehicle Type, Advertising Expenditure, and Unemployment Rate.
 
 ---
 
-## 📈 Key Skills Demonstrated
-1. **Data Wrangling & Quality Assurance** - Identifying and dropping/imputing missing values (`dropna()`, `fillna()`), standardizing units, normalizing numerical metrics (min-max / z-score), and data binning for categorical alignment.
-2. **Advanced Exploratory Data Analysis (EDA)** - Computing descriptive statistics, calculating Pearson correlation coefficients, and executing ANOVA (Analysis of Variance) tests to determine statistical significance between categorical groups and a target variable.
-3. **Predictive Modeling** - Developing Simple Linear Regression (SLR), Multiple Linear Regression (MLR), and multi-degree Polynomial models.
-4. **Model Regularization & Optimization** - Implementing Ridge Regression to prevent overfitting and using `GridSearchCV` for hyperparameter optimization.
+## 💡 Key Skills Demonstrated
+
+**Exploratory Data Analysis (EDA)** Utilizing Python libraries to clean, group, and structure data for visual consumption.
+**Dashboard Architecture** Designing end-to-end interactive web applications using Dash layouts, core components (dcc), and HTML components.
+**Reactive Programming** Implementing Dash reactive callbacks to handle user inputs (e.g., dropdown selection, radio buttons) and update graphs in real time.
+**Geospatial Mapping** Generating interactive choropleth and marker maps using Folium to display regional data distributions.
 
 ---
+
+## 📈 Visualization Highlights
+
+**Line & Bar Charts** - Used to track trends over time, such as vehicle sales performance during recession vs. non-recession periods.
+**Pie & Bubble Charts** - Used to display total advertisement expenditure shares across different vehicle types.
+**Interactive Dash Dashboards** - Features real-time dropdown filtering, allowing stakeholders to seamlessly toggle between specific recession years or report types.
+**Folium Maps** - Used to visualize geographic patterns and density distributions of localized data events.
 
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Analysis%20with%20Python)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Visualization%20with%20Python)
 - **Certification:** IBM Data Science Professional Certificate (Coursera)
