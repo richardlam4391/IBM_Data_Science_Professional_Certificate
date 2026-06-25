@@ -22,7 +22,7 @@ This module focuses on moving from raw data to actionable data-driven insights u
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Language** | Python 3.x |
 | **Data Manipulation** | `pandas`, `NumPy`|
 | **Exploratory Data Analysis & Statistical Testing** | `SciPy` (ANOVA, Pearson Correlation) |
