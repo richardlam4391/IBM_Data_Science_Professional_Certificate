@@ -1,28 +1,52 @@
-# What is Data Science
+# What is Data Science?
 
-**What is Data Science** serves as the foundational orientation for the IBM Data Science track. This completed in June 2025. 
-
----
-
-## Core Objectives
-Throughout this course, I focused on mastering the following core concepts:
-
-1. **Defining the Field:** Articulated what data science is and differentiated it from data engineering, business analytics, and traditional software engineering.
-2. **Big Data & Data Mining:** Explored the **5 Vs of Big Data** (Volume, Velocity, Variety, Veracity, and Value) and how organizations leverage massive datasets.
-3. **Core Tech Demystification:** Defined the boundaries and intersections between AI (intelligent systems), Machine Learning (predictive algorithms), and Deep Learning (neural networks).
-4. **Data Science in Business:** Evaluated case studies of how major companies (e.g., Netflix, Amazon, UPS) use consumer-generated data to optimize operations and recommendation engines.
-5. **Data Storytelling & Reporting:** Mastered the structural framework required to build an executive-ready data science final report.
+**Completed:** June 2025 | **IBM Data Science Professional Certificate**
 
 ---
 
-## Technical Skills
-While this course is primarily conceptual, it introduces the operational frameworks used in modern data environments:
+## 📊 Course Overview
 
-* **Analytical Frameworks:** Regression analysis basics for market behavior and trend prediction.
-* **The Cloud Ecosystem:** The role of cloud infrastructure (like IBM Cloud and Watson Studio) in enabling scalable computing power, central database storage, and global team collaboration.
+This module serves as the foundational introduction to the field of data science, defining the roles, responsibilities, and methodologies that drive modern data-driven decision-making. The focus is on understanding the data science lifecycle—from defining a business problem and collecting data to exploring, modeling, and communicating insights. Through case studies and industry perspectives, this course outlines how data scientists extract actionable wisdom from raw data and highlights the ethical considerations inherent in data analysis.
 
 ---
 
-## Repository Organization
-```text
-└── README.md                                               # Whole project documentation and courseworks
+## 🎯 Key Findings
+
+* **The Core Definition:** Data science is an interdisciplinary field combining statistical methods, computational algorithms, and domain expertise to extract insights from structured and unstructured data.
+* **The Lifecycle Approach:** Successful projects rely on a structured workflow (like CRISP-DM or OSEMN), proving that data preparation and problem definition are just as critical as the final modeling phase.
+* **Curiosity & Storytelling:** Beyond technical skills, the most impactful trait of a data scientist is the ability to ask the right questions and translate complex technical findings into compelling, non-technical narratives.
+
+## 🛠️ Technical Stack
+
+| Category | Tools |
+|----------|-------|
+| **Concepts & Methodologies** | CRISP-DM (Cross-Industry Standard Process for Data Mining), Data Governance, Big Data Ecosystems |
+| **Documentation & Reporting** | Markdown, Jupyter Notebooks (for narrative reporting) |
+| **Core Analytics Frameworks** | Descriptive Analytics, Predictive Modeling, Prescriptive Analytics |
+
+---
+
+## 📊 Data Source
+
+- **Primary Source** - Conceptual case studies, real-world industry reports (e.g., healthcare, finance, and e-commerce applications), and foundational text datasets provided by the IBM Skills Network.
+
+---
+
+## 💡 Key Skills Demonstrated
+
+- **Defining the Data Science Problem** - Translating ambiguous business problems into concrete, measurable data science questions.
+- **Lifecycle Mapping** - Applying structural frameworks to systematically break down data collection, cleaning, modeling, and deployment strategies.
+- **Analytical Thinking** - Distinguishing between different types of data analysis (descriptive, diagnostic, predictive, and prescriptive) to solve specific organizational goals.
+- **Technical Communication** - Summarizing high-level data workflows and technical definitions into clear, accessible documentation for stakeholders.
+
+---
+
+## 📉 Visualization Highlights
+
+- Because this foundational module focuses on definitions and workflows, visualization highlights center around mapping out analytical processes and conceptual structures:
+  - **Process Flowcharts** - Visualizing the iterative nature of the data science lifecycle to demonstrate how data moves from raw collection to final deployment.
+  - **Analytical Taxonomies** - Organizing data roles (Data Scientist vs. Data Analyst vs. Data Engineer) into clear visual matrixes to show how technical skill sets complement one another.
+ 
+## 🔗 Link
+- **Repository:** [Github](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/What%20is%20Data%20Science)
+- **Certification:** Introduction to Data Science (Coursera)
