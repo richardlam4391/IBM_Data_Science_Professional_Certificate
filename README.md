@@ -68,6 +68,19 @@ The program's capstone project involves a comprehensive application of data scie
 
 ---
 
+## 📚 **Notable Projects**
+
+### **Core Analysis Projects**
+- **[Data Analysis with Python: House Sales in King County, USA](./Data%20Analysis%20with%20Python)** — Regression modeling on real estate data
+- **[Databases and SQL for Data Science: Chicago Socioeconomic Data](./Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)** — SQL queries and relational data analysis
+- **[Python Project for Data Science: Stock Data Analysis](./Python%20Project%20for%20Data%20Science)** — Financial data extraction and visualization
+- **[Machine Learning with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)** - Learning Machine Classification
+
+### **Dashboard & Visualization**
+- **[Data Visualization with Python](./Data%20Visualization%20with%20Python)** — Interactive Plotly visualizations
+
+---
+
 ## 🛠️ My Data Analysis Process
 
 Every project within this certification followed a rigorous, structured data life cycle to ensure data integrity and actionable insights:
