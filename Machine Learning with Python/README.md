@@ -25,7 +25,7 @@ The primary objective of this course was to transition from foundational data an
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Language** | Python 3.x |
 | **Python Libraries** | **Data Manipulation:** `pandas`, `numpy`, **Machine Learning:** `scikit-learn`, `scipy`, **Data Visualization:** `matplotlib`, `seaborn` |
 | **Environment** | Jupyter Notebooks / IBM Cloud Watson Studio |
