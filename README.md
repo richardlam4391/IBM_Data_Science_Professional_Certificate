@@ -48,7 +48,7 @@ The repository is organized numerically to show the structured progression from 
 
 ---
 
-## Portfolio Highlight: Applied Data Science Capstone
+## 🏆 Portfolio Highlight: Applied Data Science Capstone
 ### SpaceX Falcon 9 First-Stage Landing Prediction
 
 The program's capstone project involves a comprehensive application of data science techniques to solve a real-world commercial problem: **predicting whether the first stage of a SpaceX Falcon 9 rocket will land successfully.** Because first-stage reuse saves SpaceX roughly $115 million per launch, predicting success allows us to calculate accurate competitive launch costs.
