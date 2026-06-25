@@ -17,7 +17,7 @@
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Programming Languages** | Python (Data structures, algorithms, and script optimization) |
 | **Database Management** | SQL (Complex joins, subqueries, and aggregations for data retrieval)|
 | **Libraries & Frameworks** | * `Pandas` & `NumPy` (Data manipulation and exploratory analysis), `Matplotlib` & `Seaborn` (Statistical data visualization) |
