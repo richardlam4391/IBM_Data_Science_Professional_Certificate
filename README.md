@@ -16,7 +16,7 @@ This intensive 12-course program provides hands-on, job-ready training across th
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * **Languages:** Python, SQL
 * **Machine Learning & Stats:** Scikit-learn, SciPy
