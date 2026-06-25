@@ -74,7 +74,7 @@ The program's capstone project involves a comprehensive application of data scie
 - **[Data Analysis with Python: House Sales in King County, USA]([./Data%20Analysis%20with%20Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Analysis%20with%20Python))** — Regression modeling on real estate data
 - **[Databases and SQL for Data Science: Chicago Socioeconomic Data]([./Databases%20and%20SQL%20for%20Data%20Science%20with%20Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python))** — SQL queries and relational data analysis
 - **[Python Project for Data Science: Stock Data Analysis]([./Python%20Project%20for%20Data%20Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Python%20Project%20for%20Data%20Science))** — Financial data extraction and visualization
-- **[Machine Learning with Python: Building a Rainfall Prediction Classifier](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)** - Learning Machine Classification
+- **[Machine Learning with Python: Building a Rainfall Prediction Classifier](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)** - Learning machine classification and regression modeling
 
 ### **Dashboard & Visualization**
 - **[Data Visualization with Python](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Visualization%20with%20Python)** — Interactive Plotly visualizations
