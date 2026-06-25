@@ -21,7 +21,7 @@
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Programming Language** | Python 3.x |
 | **Data Manipulation & Analysis** | Pandas, NumPy |
 | **Data Visualization** | Matplotlib, Seaborn |
