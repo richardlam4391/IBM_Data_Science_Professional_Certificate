@@ -51,5 +51,5 @@
 
 ## 🔗 Link
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Visualization%20with%20Python)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career)
 - **Certification:** IBM Data Science Professional Certificate (Coursera)
