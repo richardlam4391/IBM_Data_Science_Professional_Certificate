@@ -6,7 +6,7 @@ This intensive 12-course program provides hands-on, job-ready training across th
 
 ---
 
-## Key Skills Gained
+## 📊 Key Skills Gained
 
 * **Machine Learning Pipeline Engineering:** Implementing, tuning, and evaluating classical supervised and unsupervised ML models.
 * **Exploratory Data Analysis (EDA) & Feature Engineering:** Handling missing values, analyzing mathematical distributions, removing anomalies, and optimizing features through One-Hot Encoding and normalization.
