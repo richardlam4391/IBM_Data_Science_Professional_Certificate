@@ -110,6 +110,8 @@ To explore projects in this repository:
 4. Install required dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn plotly beautifulsoup4`
 5. Run cells sequentially to reproduce analysis and visualizations
 
+---
+
 **Repository Last Updated:** October 2025
 **Certificate Awarded:** October 2025
 **Total Courses:** 12
