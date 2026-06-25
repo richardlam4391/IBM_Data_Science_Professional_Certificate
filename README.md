@@ -87,9 +87,9 @@ Every project within this certification followed a rigorous, structured data lif
 
 ---
 
-Repository Last Updated: June 2025
-Certificate Awarded: June 2025
+Repository Last Updated: October 2025
+Certificate Awarded: October 2025
 Total Courses: 12
 Program Duration: 3 months
 
-For more information about this program, visit [IBM Data Analyst Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science).
+For more information about this program, visit [IBM Data Science Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science).
