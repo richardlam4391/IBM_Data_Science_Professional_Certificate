@@ -47,5 +47,5 @@
 
 ## 🔗 Link
 
-- **Repository:** [Github](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Science%20Methodology)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Science%20Methodology)
 - **Certification:** IBM Data Science Professional Certificate (Coursera)
