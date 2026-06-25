@@ -23,7 +23,7 @@ This project focuses on harnessing the power of data visualization to extract me
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Language** | Python 3.x |
 | **Data Manipulation** | `pandas`, `NumPy`|
 | **Static Visualization** | `matplotlib`, 'seaborn' |
