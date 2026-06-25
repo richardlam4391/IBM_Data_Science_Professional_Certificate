@@ -27,7 +27,7 @@ This intensive 12-course program provides hands-on, job-ready training across th
 
 ---
 
-## Curriculum & Repository Structure
+## 📋 Curriculum & Repository Structure
 
 The repository is organized numerically to show the structured progression from fundamental principles to predictive algorithmic modeling:
 
