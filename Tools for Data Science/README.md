@@ -56,5 +56,5 @@ This module provides a comprehensive introduction to the essential tools and env
 
 ## 🔗 Link
 
-- **Repository:** [Github](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Tools%20for%20Data%20Science)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Tools%20for%20Data%20Science)
 - **Certification:** IBM Data Science Professional Certificate (Coursera)
