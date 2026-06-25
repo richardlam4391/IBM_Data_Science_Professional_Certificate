@@ -27,7 +27,7 @@ The core objective of this project is to predict whether the first stage of a Fa
 ## 🛠️ Technical Stack & Tools
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Languages:** | Python, SQL |
 | **Data Gathering & Ingestion:** | REST APIs (SpaceX API), Web Scraping (`BeautifulSoup`), `Requests` |
 | **Data Wrangling & Processing:** | `Pandas`, `NumPy` |
