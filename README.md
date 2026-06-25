@@ -65,3 +65,31 @@ The program's capstone project involves a comprehensive application of data scie
     * *K-Nearest Neighbors (KNN)*
 
 **Explore the code, notebooks, and final presentation:** [Winning Space Race with Data Science]([./10_Applied_Data_Science_Capstone/](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone))
+
+---
+
+## 🛠️ My Data Analysis Process
+
+Every project within this certification followed a rigorous, structured data life cycle to ensure data integrity and actionable insights:
+
+1.  **Data Acquisition:** Gathering data from diverse sources using Python REST APIs, relational databases (SQL), or unstructured formats via web scraping.
+2.  **Data Cleaning & Wrangling:** Processing missing values, resolving data type inconsistencies, filtering outliers, and engineering key features using **Pandas** and **NumPy**.
+3.  **Exploratory Data Analysis (EDA):** Discovering patterns, checking statistical assumptions, and analyzing feature correlations utilizing descriptive statistics and SQL-driven aggregations.
+4.  **Data Visualization:** Designing clean, interpretable charts (scatter plots, line charts, histograms, and heatmaps) using **Matplotlib** and **Seaborn** to translate complex data distributions into clear narratives.
+5.  **Geospatial & Interactive Dashboards:** Building interactive map overlays with **Folium** and dynamic interfaces with **Plotly/Dash** to allow stakeholders to filter data dynamically.
+6.  **Predictive Modeling:** Applying supervised machine learning techniques using **Scikit-learn**, optimizing algorithms through cross-validation, and measuring performance metrics (Accuracy, Precision, Recall, F1-Score, and Confusion Matrices).
+
+---
+
+## 🎓 Certification
+
+✅ [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/0QDNHSLT2300) — October 2025
+
+---
+
+Repository Last Updated: June 2025
+Certificate Awarded: June 2025
+Total Courses: 12
+Program Duration: 3 months
+
+For more information about this program, visit [IBM Data Analyst Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science).
