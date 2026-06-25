@@ -87,9 +87,19 @@ Every project within this certification followed a rigorous, structured data lif
 
 ---
 
-Repository Last Updated: October 2025
-Certificate Awarded: October 2025
-Total Courses: 12
-Program Duration: 3 months
+## 📊 **Getting Started**
+
+To explore projects in this repository:
+
+1. Clone or download the repository
+2. Navigate to specific course folders
+3. Open Jupyter notebooks (`.ipynb` files)
+4. Install required dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn plotly beautifulsoup4`
+5. Run cells sequentially to reproduce analysis and visualizations
+
+**Repository Last Updated:** October 2025
+**Certificate Awarded:** October 2025
+**Total Courses:** 12
+**Program Duration:** 3 months
 
 For more information about this program, visit [IBM Data Science Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science).
