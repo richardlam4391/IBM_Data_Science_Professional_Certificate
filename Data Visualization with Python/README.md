@@ -26,7 +26,7 @@ This project focuses on harnessing the power of data visualization to extract me
 |----------|-------|
 | **Language** | Python 3.x |
 | **Data Manipulation** | `pandas`, `NumPy`|
-| **Static Visualization** | `mathplotlib`, 'seaborn' |
+| **Static Visualization** | `matplotlib`, 'seaborn' |
 | **Data Visualization** | `Matplotlib`, `Seaborn` |
 | **Advanced & Geospatial Visualization** | `folium`, 'wordcloud' |
 | **Interactive Dashboards** | 'plotly', dash |
