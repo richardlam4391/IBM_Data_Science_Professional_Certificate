@@ -49,5 +49,5 @@
 
 ## 🔗 Link
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation)
 - **Certification:** IBM Data Science Professional Certificate (Coursera)
