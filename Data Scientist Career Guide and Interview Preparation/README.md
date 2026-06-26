@@ -1,5 +1,7 @@
 # Data Scientist Career Guide and Interview Preparation
 
+---
+
 **Completed: October 2025** | **IBM Data Science Professional Certificate**
 
 ---
