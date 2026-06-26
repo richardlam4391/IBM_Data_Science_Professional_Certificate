@@ -1,6 +1,8 @@
 # Databases and SQL for Data Science with Python
-
 ## Chicago Socioeconomic Data 
+
+---
+
 **Completed:** April 2025 | **IBM Data Science Professional Certificate**
 
 ---
