@@ -5,6 +5,8 @@
 
 **Completed:** October 2025 | **IBM Data Science Professional Certificate** 
 
+---
+
 ## 📊 Course Overview
 
 This repository contains the projects, lab notebooks, and assignments completed as part of the **Machine Learning with Python** course, a core component of the **IBM Data Science Professional Certificate**. 
