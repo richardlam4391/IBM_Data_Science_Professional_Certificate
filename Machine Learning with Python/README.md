@@ -37,8 +37,8 @@ The primary objective of this course was to transition from foundational data an
 
 ### Deliverables
 
-- weatherAUS_2.csv - Source and processed datasets
-- 'FinalProject_AUSWeather.ipynb - Core Jupyter Notebook project files
+- `weatherAUS_2.csv` - Source and processed datasets
+- `FinalProject_AUSWeather.ipynb` - Core Jupyter Notebook project files
 
 ---
 
