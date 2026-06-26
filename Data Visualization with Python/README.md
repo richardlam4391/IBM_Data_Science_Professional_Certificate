@@ -21,6 +21,9 @@ This project focuses on harnessing the power of data visualization to extract me
 - Dashboards revealed that specific geographic regions responded differently to promotional campaigns, optimizing targeted advertising strategies.
 - Interactive maps successfully pinpointed high-density clusters of immigration trends and wildfire occurrences over the specified timelines.
 
+![Regreesion Period Statistics](
+![Yearly Statistics](
+
 ---
 
 ## 🛠️ Technical Stack
