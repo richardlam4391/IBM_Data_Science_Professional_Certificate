@@ -1,5 +1,6 @@
 # Winning the Space Race with Data Science
 ### IBM Data Science Professional Certificate — Capstone Project
+
 **Completed:** October 2025 | **IBM Data Science Professional Certificate** 
 
 ---
