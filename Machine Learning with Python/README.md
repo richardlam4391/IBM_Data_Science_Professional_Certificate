@@ -36,11 +36,14 @@ The primary objective of this course was to transition from foundational data an
 ## 📂 Project Structure
 
 ### Deliverables
-- `FinalProject_AUSWeather.ipynb` -  Jupyter Notebook documentation
+
+- weatherAUS_2.csv - Source and processed datasets
+- 'FinalProject_AUSWeather.ipynb - Core Jupyter Notebook project files
 
 ---
 
 ## 📊 Data Sources
+
 - The models in this module were trained and evaluated using benchmark datasets provided by IBM, including:
   - **Loan Application Data** - Historical loan records used to predict whether a customer will pay off or default on a loan.
   - **Telecommunications Customer Churn** - Customer demographics and usage metrics used for predicting churn behaviors.
@@ -50,6 +53,7 @@ The primary objective of this course was to transition from foundational data an
 ---
 
 ## 💡 Key Skills Demonstrated
+
 - **Data Preprocessing & Feature Engineering** - Handling missing values, converting categorical variables into numerical formats (One-Hot Encoding), and normalizing data using StandardScaler.
 - **Supervised Learning** - Building and optimizing Regression and Classification models.
 - **Unsupervised Learning** - Pattern extraction and data segmentation using Clustering techniques.
