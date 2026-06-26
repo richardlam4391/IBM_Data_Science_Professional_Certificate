@@ -2,6 +2,7 @@
 ## House Sales in King County, USA
 
 ---
+
 **Comnpleted:** May 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
