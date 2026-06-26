@@ -1,5 +1,7 @@
 # Data Science Methodology 
 
+---
+
 **Completed:** June 2025 | **IBM Data Science Professional Certificate** 
 
 ---
