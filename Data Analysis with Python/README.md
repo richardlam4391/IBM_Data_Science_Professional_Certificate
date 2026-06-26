@@ -35,7 +35,9 @@ This module focuses on moving from raw data to actionable data-driven insights u
 ## Project Structure
 
 ### Deliverables
-'Lab6b Project.ipynb' - Jupyter Notebook project 
+
+- `historical_automobile_sales.csv' - Source and processed datasets
+- 'Lab6b Project.ipynb' - Core Jupyter Notebook project files
 
 ---
 
