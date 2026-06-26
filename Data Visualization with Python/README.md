@@ -21,7 +21,7 @@ This project focuses on harnessing the power of data visualization to extract me
 - Dashboards revealed that specific geographic regions responded differently to promotional campaigns, optimizing targeted advertising strategies.
 - Interactive maps successfully pinpointed high-density clusters of immigration trends and wildfire occurrences over the specified timelines.
 
-![Regreesion Period Statistics](
+![Regreesion Period Statistics](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Data%20Visualization%20with%20Python/Regression%20Period%20Statistics.png)
 ![Yearly Statistics](
 
 ---
