@@ -13,7 +13,7 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of $62 mil
 The core objective of this project is to predict whether the first stage of a Falcon 9 rocket will land successfully. By building a predictive machine learning model, we can accurately determine the actual cost of a launch and provide critical, data-driven financial and operational insights for alternate commercial space launch companies looking to compete with SpaceX.
 
 ### Primary Deliverable
-**Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard1)
+**Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard2)
 
 ---
 
@@ -23,7 +23,7 @@ The core objective of this project is to predict whether the first stage of a Fa
 * **Payload Impact** - Landing success rates drop significantly for payloads exceeding **10,000 kg** across specific orbits, while a "sweet spot" for high-probability successful landings occurs between **2,000 kg and 6,000 kg**.
 * **Geospatial Proximity** - Using map visualization, all major launch sites were found to be strategically located directly adjacent to major coastlines and transport highways to maximize safety and logistically simplify first-stage shipping/recovery.
 
-![SpaceX Dashboard (2).png](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/SpaceX%20Dashboard%20(2).png)
+![Launch Sites Dashboard](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/Launch%20Sites%20Dashboard.png)
 
 ---
 
@@ -91,6 +91,6 @@ The core objective of this project is to predict whether the first stage of a Fa
 
 ## 🔗 Links
 
-- **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard1)
+- **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard2)
 - **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
 - **Certification:** IBM Data Science Professional Certificate (Coursera)
