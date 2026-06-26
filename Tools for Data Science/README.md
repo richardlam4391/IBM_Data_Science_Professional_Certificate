@@ -2,7 +2,7 @@
 
 ---
 
-**Completed: June 2025** | **IBM Data Science Professional Certificate** 
+**Completed:** June 2025 | **IBM Data Science Professional Certificate** 
 
 ---
 
