@@ -1,5 +1,7 @@
 # IBM Data Science Professional Certificate Portfolio
 
+---
+
 Welcome to my portfolio repository documenting my journey and projects completed during the **IBM Data Science Professional Certificate** program on Coursera. 
 
 This intensive 12-course program provides hands-on, job-ready training across the complete data science lifecycle—moving from initial business understanding and SQL database operations to predictive modeling and machine learning deployment.
