@@ -12,10 +12,10 @@ This module focuses on working with relational database systems, utilizing SQL (
 
 ## 🎯 Key Findings
 
-- Identified distinct correlations between community hardship indexes, per capita income levels, and local enrollment rates.
-- Uncovered structural patterns in school safety scores and academic success metrics across different neighborhood demographics.
-- Map-based and frequency-based analysis pinpointed specific areas with disproportionately high frequencies of specific crime categories, providing actionable insight for public resource allocation.
-- Demonstrated that moving heavy data-filtering and aggregation workloads to the database engine via SQL significantly reduces memory overhead in Python compared to processing raw data entirely within Pandas.
+- **Socioeconomic Impacts** - Identified distinct correlations between community hardship indexes, per capita income levels, and local enrollment rates.
+- **School Performance Trends** - Uncovered structural patterns in school safety scores and academic success metrics across different neighborhood demographics.
+- **Crime Hotspots** - Map-based and frequency-based analysis pinpointed specific areas with disproportionately high frequencies of specific crime categories, providing actionable insight for public resource allocation.
+- **Python-SQL Synergy** - Demonstrated that moving heavy data-filtering and aggregation workloads to the database engine via SQL significantly reduces memory overhead in Python compared to processing raw data entirely within Pandas.
 
 ---
 
