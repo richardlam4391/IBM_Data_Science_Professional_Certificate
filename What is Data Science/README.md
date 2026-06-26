@@ -1,5 +1,7 @@
 # What is Data Science?
 
+---
+
 **Completed:** June 2025 | **IBM Data Science Professional Certificate**
 
 ---
