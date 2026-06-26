@@ -52,11 +52,13 @@ The core objective of this project is to predict whether the first stage of a Fa
 - **Lab 8:** Predictive Analysis (Classification)
 
 ### Deliverables
+
+-.csv files - Source and processed datasets
 - `2025 Richard Lam Data Science Capstone Project` — Executive summary
 - `2025 Richard Lam Data Science Capstone Project.pdf` — Presentation PDF
 - `IBM Data Analyst Capstone Project Tableau.pdf` — Dashboard documentation
-- Dashboard exports (PNG files)
-- Dashboard plotly (py files)
+- Dashboard exports (PNG files) - Visualizations and dashboard screenshots
+- Dashboard plotly (py files) - Programmatic interactive dashboard scripts
 
 ---
 
