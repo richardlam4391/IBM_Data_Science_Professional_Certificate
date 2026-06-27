@@ -43,9 +43,9 @@ This project focuses on harnessing the power of data visualization to extract me
 ### Deliverables
 
 - `historical_automobile_sales.csv` - Source and processed datasets
-- `Lab5c Final Project` — Core Jupyter Notebook project files
+- `DV0101EN-Final-Assign-Part1.ipynb` — Core Jupyter Notebook project files
+- `DV0101EN-Final-Assign-Part-2-Questions.py.2` - Programmatic interactive dashboard scripts
 - Dashboard exports (PNG files) - Visualizations and dashboard screenshots
-- Dashboard plotly (py files) - Programmatic interactive dashboard scripts
 
 ---
 
