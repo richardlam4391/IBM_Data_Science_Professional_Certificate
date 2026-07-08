@@ -24,7 +24,7 @@ This intensive 12-course program provides hands-on, job-ready training across th
 * **Machine Learning & Stats:** Scikit-learn, SciPy
 * **Data Processing:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn, Folium (Geospatial maps), Plotly, Plotly Dash (Interactive Dashboards)
-* **Databases & Environments:** SQLite, IBM Db2 Cloud, JupyterLab, Jupyter Notebooks, VS Code, Git
+* **Databases & Environments:** SQLite, IBM Db2 Cloud, MySQL JupyterLab, Jupyter Notebooks, VS Code, Git
 * **AI & Automation:** Generative AI for prompt engineering, script automation, and analytical storytelling
 
 ---
