@@ -23,7 +23,26 @@ The core objective of this project is to predict whether the first stage of a Fa
 * **Payload Impact** - Landing success rates drop significantly for payloads exceeding **10,000 kg** across specific orbits, while a "sweet spot" for high-probability successful landings occurs between **2,000 kg and 6,000 kg**.
 * **Geospatial Proximity** - Using map visualization, all major launch sites were found to be strategically located directly adjacent to major coastlines and transport highways to maximize safety and logistically simplify first-stage shipping/recovery.
 
+1) Launch Sites Dashboard
 ![Launch Sites Dashboard](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/Launch%20Sites%20Dashboard.png)
+
+2) Space Launch Sites 1
+![Space Launch Sites 1](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/Space%20launch%20sites%201.png)
+
+3) Space Launch Sites 2
+![Space Launch Sites 2](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/Space%20launch%20sites%202.png)
+
+4) Space Launch Sites 3
+![Space Launch Sites 3](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/Space%20launch%20sites%203.png)
+
+5) Space Launch Sites 4
+![Space Launch Sites 4](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/Space%20launch%20sites%204.png)
+
+6) Space Launch Sites 5
+![Space Launch Sites 5](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/Space%20launch%20sites%205.png)
+
+7) Space Launch Sites 6
+![Space Launch Sites 6](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/Space%20launch%20sites%206.png)
 
 ---
 
