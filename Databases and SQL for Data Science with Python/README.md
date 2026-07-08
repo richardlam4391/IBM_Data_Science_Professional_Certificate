@@ -41,7 +41,7 @@ This module focuses on working with relational database systems, utilizing SQL (
 ![Solution of Chicago Census Data 7](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%207.png)
 
 8) Which community area is most crime prone? Display the coumminty area number only.
-![Solution of Chicago Census Data 8]
+![Solution of Chicago Census Data 8](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%208.png)
 
 9) Use a sub-query to find the name of the community area with highest hardship index.
 ![Solution of Chicago Census Data 9](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%209.png)
