@@ -39,39 +39,39 @@ The primary objective of this course was to transition from foundational data an
 
 ### Deliverables
 
-- `weatherAUS_2.csv` - Source and processed datasets
-- `FinalProject_AUSWeather.ipynb` - Core Jupyter Notebook project files
+* `weatherAUS_2.csv` - Source and processed datasets
+*`FinalProject_AUSWeather.ipynb` - Core Jupyter Notebook project files
 
 ---
 
 ## 📊 Data Sources
 
-- The models in this module were trained and evaluated using benchmark datasets provided by IBM, including:
-  - **Loan Application Data** - Historical loan records used to predict whether a customer will pay off or default on a loan.
-  - **Telecommunications Customer Churn** - Customer demographics and usage metrics used for predicting churn behaviors.
-  - **Automobile Datasets** - Technical specifications of vehicles used to predict fuel consumption and market pricing.
-  - **Co2 Emissions Data** - Engine features utilized to model and predict environmental impact trends.
+* The models in this module were trained and evaluated using benchmark datasets provided by IBM, including:
+  * **Loan Application Data** - Historical loan records used to predict whether a customer will pay off or default on a loan.
+  * **Telecommunications Customer Churn** - Customer demographics and usage metrics used for predicting churn behaviors.
+  * **Automobile Datasets** - Technical specifications of vehicles used to predict fuel consumption and market pricing.
+  * **Co2 Emissions Data** - Engine features utilized to model and predict environmental impact trends.
  
 ---
 
 ## 💡 Key Skills Demonstrated
 
-- **Data Preprocessing & Feature Engineering** - Handling missing values, converting categorical variables into numerical formats (One-Hot Encoding), and normalizing data using StandardScaler.
-- **Supervised Learning** - Building and optimizing Regression and Classification models.
-- **Unsupervised Learning** - Pattern extraction and data segmentation using Clustering techniques.
-- **Model Evaluation & Hyperparameter Tuning** - Utilizing train/test splits, K-Fold Cross-Validation, and evaluating performance using confusion matrices, ROC curves, F1-Score, Jaccard Index, and LogLoss.
+* **Data Preprocessing & Feature Engineering** - Handling missing values, converting categorical variables into numerical formats (One-Hot Encoding), and normalizing data using StandardScaler.
+* **Supervised Learning** - Building and optimizing Regression and Classification models.
+* **Unsupervised Learning** - Pattern extraction and data segmentation using Clustering techniques.
+* **Model Evaluation & Hyperparameter Tuning** - Utilizing train/test splits, K-Fold Cross-Validation, and evaluating performance using confusion matrices, ROC curves, F1-Score, Jaccard Index, and LogLoss.
 
 ---
 
 ## 📈 Visualization Highlights
 
-- Data visualizations were critical for interpreting model decisions and checking assumptions. Key visual assets included:
-  - **Correlation Heatmaps** - Leveraged seaborn heatmaps to detect multi-collinearity among features before training regression models.
-  - **Decision Boundaries** - Visualizing how different classifiers split data classes across two-dimensional feature spaces.
-  - **Elbow Method Plots** - Plotting within-cluster sum of squares (WCSS) against the number of clusters ($K$) to mathematically determine the optimal cluster count.
-  - **Confusion Matrices** - Detailed heatmaps mapping True Positives vs. False Positives to visually diagnose classification errors.
+* Data visualizations were critical for interpreting model decisions and checking assumptions. Key visual assets included:
+  * **Correlation Heatmaps** - Leveraged seaborn heatmaps to detect multi-collinearity among features before training regression models.
+  * **Decision Boundaries** - Visualizing how different classifiers split data classes across two-dimensional feature spaces.
+  * **Elbow Method Plots** - Plotting within-cluster sum of squares (WCSS) against the number of clusters ($K$) to mathematically determine the optimal cluster count.
+  * **Confusion Matrices** - Detailed heatmaps mapping True Positives vs. False Positives to visually diagnose classification errors.
  
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)
-- **Certification:** IBM Data Science Professional Certificate (Coursera)
+* **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)
+* **Certification:** IBM Data Science Professional Certificate (Coursera)
