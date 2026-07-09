@@ -8,6 +8,7 @@
 ---
 
 ## 📊 Course Overview
+
 This project focuses on harnessing the power of data visualization to extract meaningful insights and effectively communicate data stories. Throughout this course, I learned how to analyze data and create both static and interactive visual representations. The curriculum covered fundamental visualization libraries like Matplotlib and Seaborn, advanced specialized visualizations (such as Waffle charts, Word Clouds, and Regression plots), and interactive web dashboards using Folium, Dash, and Plotly.
 
 ### Primary Deliverable
