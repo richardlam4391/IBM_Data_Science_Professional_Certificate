@@ -62,54 +62,54 @@ The core objective of this project is to predict whether the first stage of a Fa
 ## 📁 Project Structure
 
 ### Data Pipeline (Labs 1-3)
-- **Lab 1:** Collecting the data
-- **Lab 2:** Web scraping
-- **Lab 3:** Data Wrangling
+* **Lab 1:** Collecting the data
+* **Lab 2:** Web scraping
+* **Lab 3:** Data Wrangling
 
 ### Analysis & Visualization (Labs 4-8)
-- **Lab 4:** Exploratory Data Analysis (EDA) with Data Visualization
-- **Lab 5:** Exploratory Data Analysis (EDA) with Structured Query Language (SQL)
-- **Lab 6:** Interactive Map with Folium
-- **Lab 7:** Dashboard with Plotly Dash
-- **Lab 8:** Predictive Analysis (Classification)
+* **Lab 4:** Exploratory Data Analysis (EDA) with Data Visualization
+* **Lab 5:** Exploratory Data Analysis (EDA) with Structured Query Language (SQL)
+* **Lab 6:** Interactive Map with Folium
+* **Lab 7:** Dashboard with Plotly Dash
+* **Lab 8:** Predictive Analysis (Classification)
 
 ### Deliverables
 
-- .csv files - Source and processed datasets
-- `2025 Richard Lam Data Science Capstone Project` — Executive summary
-- `2025 Richard Lam Data Science Capstone Project.pdf` — Presentation PDF
-- `IBM Data Analyst Capstone Project Tableau.pdf` — Dashboard documentation
-- Dashboard exports (PNG files) - Visualizations and dashboard screenshots
-- Dashboard plotly (py files) - Programmatic interactive dashboard scripts
+* .csv files - Source and processed datasets
+* `2025 Richard Lam Data Science Capstone Project` — Executive summary
+* `2025 Richard Lam Data Science Capstone Project.pdf` — Presentation PDF
+* `IBM Data Analyst Capstone Project Tableau.pdf` — Dashboard documentation
+* Dashboard exports (PNG files) - Visualizations and dashboard screenshots
+* Dashboard plotly (py files) - Programmatic interactive dashboard scripts
 
 ---
 
 ## 📊 Data Sources
 
-- **SpaceX REST API** - Sourced granular flight attributes, core usage histories, landing intentions, specific block upgrades, and structural outcome variables.
-- **Wikipedia Web Scraping** - Parsed historical launch data tables via BeautifulSoup to manually extract and align supplementary payload metrics and record logs.
-- **Relational Storage** - Exported processed records into an internal SQLite3 instance to easily run multi-table joins, aggregate payload windows, and filter out outlier target metrics.
+* **SpaceX REST API** - Sourced granular flight attributes, core usage histories, landing intentions, specific block upgrades, and structural outcome variables.
+* **Wikipedia Web Scraping** - Parsed historical launch data tables via BeautifulSoup to manually extract and align supplementary payload metrics and record logs.
+* **Relational Storage** - Exported processed records into an internal SQLite3 instance to easily run multi-table joins, aggregate payload windows, and filter out outlier target metrics.
 
 ---
 
 ## 💡 Key Skills Demonstrated
 
-- **End-to-End Data Pipeline Architecture** - Orchestrated raw scraping, API polling, feature scaling, algorithmic tuning, and dashboard development into a clean, reproducible stack.
-- **Statistical Machine Learning** - Implemented multi-model comparative analysis, handled categorical values via one-hot encoding, and utilized confusion matrices to measure precision/recall drop-offs.
-- **Interactive Geospatial/BI Design** - Engineered geometric coordinate clusters, custom distance algorithms, marker overlays, and dynamic data filtering elements across mapping scripts and production visualization suites.
+* **End-to-End Data Pipeline Architecture** - Orchestrated raw scraping, API polling, feature scaling, algorithmic tuning, and dashboard development into a clean, reproducible stack.
+* **Statistical Machine Learning** - Implemented multi-model comparative analysis, handled categorical values via one-hot encoding, and utilized confusion matrices to measure precision/recall drop-offs.
+* **Interactive Geospatial/BI Design** - Engineered geometric coordinate clusters, custom distance algorithms, marker overlays, and dynamic data filtering elements across mapping scripts and production visualization suites.
 
 ---
 
 ## 📈 Visualization Highlights
 
-- The Tableau dashboard includes:
-  - **Tableau Public Dashboard** - A dynamic, multi-view dashboard analyzing payload distributions, success profiles by location, and correlated launch trajectories.
-  - **Folium Interactive Maps** - Geographical markers showcasing launch pad locations alongside coordinate markers calculating exact distances to coastlines and railways.
+* The Tableau dashboard includes:
+  * **Tableau Public Dashboard** - A dynamic, multi-view dashboard analyzing payload distributions, success profiles by location, and correlated launch trajectories.
+  * **Folium Interactive Maps** - Geographical markers showcasing launch pad locations alongside coordinate markers calculating exact distances to coastlines and railways.
 
 ---
 
 ## 🔗 Links
 
-- **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard2)
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
-- **Certification:** IBM Data Science Professional Certificate (Coursera)
+* **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard2)
+* **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
+* **Certification:** IBM Data Science Professional Certificate (Coursera)
