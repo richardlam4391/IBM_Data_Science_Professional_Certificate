@@ -30,25 +30,25 @@ This module serves as the foundational introduction to the field of data science
 
 ## 📊 Data Source
 
-- **Primary Source** - Conceptual case studies, real-world industry reports (e.g., healthcare, finance, and e-commerce applications), and foundational text datasets provided by the IBM Skills Network.
+* **Primary Source** - Conceptual case studies, real-world industry reports (e.g., healthcare, finance, and e-commerce applications), and foundational text datasets provided by the IBM Skills Network.
 
 ---
 
 ## 💡 Key Skills Demonstrated
 
-- **Defining the Data Science Problem** - Translating ambiguous business problems into concrete, measurable data science questions.
-- **Lifecycle Mapping** - Applying structural frameworks to systematically break down data collection, cleaning, modeling, and deployment strategies.
-- **Analytical Thinking** - Distinguishing between different types of data analysis (descriptive, diagnostic, predictive, and prescriptive) to solve specific organizational goals.
-- **Technical Communication** - Summarizing high-level data workflows and technical definitions into clear, accessible documentation for stakeholders.
+* **Defining the Data Science Problem** - Translating ambiguous business problems into concrete, measurable data science questions.
+* **Lifecycle Mapping** - Applying structural frameworks to systematically break down data collection, cleaning, modeling, and deployment strategies.
+* **Analytical Thinking** - Distinguishing between different types of data analysis (descriptive, diagnostic, predictive, and prescriptive) to solve specific organizational goals.
+* **Technical Communication** - Summarizing high-level data workflows and technical definitions into clear, accessible documentation for stakeholders.
 
 ---
 
 ## 📉 Visualization Highlights
 
-- Because this foundational module focuses on definitions and workflows, visualization highlights center around mapping out analytical processes and conceptual structures:
-  - **Process Flowcharts** - Visualizing the iterative nature of the data science lifecycle to demonstrate how data moves from raw collection to final deployment.
-  - **Analytical Taxonomies** - Organizing data roles (Data Scientist vs. Data Analyst vs. Data Engineer) into clear visual matrixes to show how technical skill sets complement one another.
+* Because this foundational module focuses on definitions and workflows, visualization highlights center around mapping out analytical processes and conceptual structures:
+  * **Process Flowcharts** - Visualizing the iterative nature of the data science lifecycle to demonstrate how data moves from raw collection to final deployment.
+  * **Analytical Taxonomies** - Organizing data roles (Data Scientist vs. Data Analyst vs. Data Engineer) into clear visual matrixes to show how technical skill sets complement one another.
  
 ## 🔗 Link
-- **Repository:** [Github](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/What%20is%20Data%20Science)
-- **Certification:** IBM Data Science Professional Certificate (Coursera)
+* **Repository:** [Github](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/What%20is%20Data%20Science)
+* **Certification:** IBM Data Science Professional Certificate (Coursera)
