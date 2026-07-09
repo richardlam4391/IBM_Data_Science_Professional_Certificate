@@ -8,7 +8,7 @@
 
 ## 📊 Course Overview
 
-- This course explores how generative AI models and tools (such as Large Language Models and AI coding assistants) transform the modern data science workflow. It is designed to bridge the gap between traditional machine learning pipelines and emerging generative workflows, teaching data professionals how to optimize data preparation, augment datasets, accelerate feature engineering, and streamline model generation ethically.
+This course explores how generative AI models and tools (such as Large Language Models and AI coding assistants) transform the modern data science workflow. It is designed to bridge the gap between traditional machine learning pipelines and emerging generative workflows, teaching data professionals how to optimize data preparation, augment datasets, accelerate feature engineering, and streamline model generation ethically.
 
 ## 🎯 Key Findings 
 
