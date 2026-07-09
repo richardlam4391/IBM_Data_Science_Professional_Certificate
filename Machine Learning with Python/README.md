@@ -76,4 +76,4 @@ The primary objective of this course was to transition from foundational data an
 ## 🔗 Links
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)
-* **Certification:** IBM Data Science Professional Certificate (Coursera)
+* **Certification:** [Machine Learning with Python (Coursera)](https://www.coursera.org/account/accomplishments/records/4C33QEW6QU3K)
