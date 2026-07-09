@@ -58,4 +58,4 @@ This project forms a core component of the **IBM Data Science Professional Certi
 ## 🔗 Links
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Python%20for%20Data%20Science%2C%20AI%20and%20Development)
-* **Certification:** IBM Data Science Professional Certificate (Coursera)
+* **Certification:** [Python for Data Science, AI and Development (Coursera)](https://www.coursera.org/account/accomplishments/verify/8VA7R7HY70B0)
