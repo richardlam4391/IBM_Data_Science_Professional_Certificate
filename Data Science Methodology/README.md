@@ -38,6 +38,8 @@ This module explores the core framework used by data scientists to tackle comple
 * **Data Requirements & Collection** - Identifying the specific data elements required to answer a business question and compiling them systematically.
 * **Data Cleaning & Engineering** - Handling missing values, removing duplicates, and transforming variables into formats optimized for machine learning algorithms.
 
+---
+
 ## 📈 Visualization Highlights
 
 * This module utilized data visualization to transition from raw data to structural understanding. Key visualizations include:
