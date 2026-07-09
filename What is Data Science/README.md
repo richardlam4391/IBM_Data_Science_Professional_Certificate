@@ -18,6 +18,8 @@ This module serves as the foundational introduction to the field of data science
 * **The Lifecycle Approach:** Successful projects rely on a structured workflow (like CRISP-DM or OSEMN), proving that data preparation and problem definition are just as critical as the final modeling phase.
 * **Curiosity & Storytelling:** Beyond technical skills, the most impactful trait of a data scientist is the ability to ask the right questions and translate complex technical findings into compelling, non-technical narratives.
 
+---
+
 ## 🛠️ Technical Stack
 
 | Category | Tools |
