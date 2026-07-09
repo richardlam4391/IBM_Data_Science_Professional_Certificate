@@ -77,6 +77,8 @@ This project focuses on harnessing the power of data visualization to extract me
 * **Interactive Dash Dashboards** - Features real-time dropdown filtering, allowing stakeholders to seamlessly toggle between specific recession years or report types.
 * **Folium Maps** - Used to visualize geographic patterns and density distributions of localized data events.
 
+---
+
 ## 🔗 Links
 
 * **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/RecessionStatisticsandYearlyStatisticsAutomobileSalesStatisticsDashboard/YearlyStatistics)
