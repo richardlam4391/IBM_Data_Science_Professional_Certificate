@@ -81,4 +81,4 @@ This project focuses on harnessing the power of data visualization to extract me
 
 * **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/RecessionStatisticsandYearlyStatisticsAutomobileSalesStatisticsDashboard/YearlyStatistics)
 * **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Visualization%20with%20Python)
-* **Certification:** IBM Data Science Professional Certificate (Coursera)
+* **Certification:** [Data Visualization with Python (Coursera)](https://www.coursera.org/account/accomplishments/verify/X9L9510WVZI9)
