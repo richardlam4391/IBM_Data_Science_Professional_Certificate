@@ -50,4 +50,4 @@ This module explores the core framework used by data scientists to tackle comple
 ## 🔗 Link
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Science%20Methodology)
-* **Certification:** IBM Data Science Professional Certificate (Coursera)
+* **Certification:** [Data Science Methodology (Coursera)](https://www.coursera.org/account/accomplishments/verify/8VJB0EJ4G8H2)
