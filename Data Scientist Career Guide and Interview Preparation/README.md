@@ -10,11 +10,15 @@
 
 This module focuses on the transition from data science theory to professional practice. It covers the landscape of the data science job market, essential career pathways, and intensive preparation for technical and behavioral interviews. Through practical exercises, this course builds the foundational strategies required to solve real-world data problems under interview conditions, articulate complex technical concepts clearly, and showcase a portfolio effectively.
 
+---
+
 ## 🎯 Key Findings
 
 * **Market Demand & Skills Alignment** - Analysis of current job descriptions reveals a critical demand for data scientists who balance core statistical proficiency with strong business acumen and communication skills.
 * **Technical Interview Trends** - Technical assessments heavily prioritize structured problem-solving, efficient SQL querying, algorithmic thinking in Python, and the clear explanation of machine learning model trade-offs (e.g., bias vs. variance).
 * **Portfolio Impact** - Well-documented, end-to-end projects with clear business outcomes are often the deciding factor in advancing through initial technical screening rounds.
+
+---
 
 ## 🛠️ Technical Stack
 
