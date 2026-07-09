@@ -76,4 +76,4 @@ This module focuses on moving from raw data to actionable data-driven insights u
 ## 🔗 Links
 
 - **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Analysis%20with%20Python)
-- **Certification:** IBM Data Science Professional Certificate (Coursera)
+- **Certification:** [Data Analysis with Python (Coursera)](https://www.coursera.org/account/accomplishments/verify/FFNBYUXI9T2F)
