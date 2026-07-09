@@ -58,4 +58,4 @@ This course explores how generative AI models and tools (such as Large Language 
 ## 🔗 Link
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career)
-* **Certification:** IBM Data Science Professional Certificate (Coursera)
+* **Certification:** [Generative AI: Elevate Your Data Science Career (Coursera)](https://www.coursera.org/account/accomplishments/verify/9JO2MLV7ACQ9)
