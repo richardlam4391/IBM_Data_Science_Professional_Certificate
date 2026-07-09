@@ -52,4 +52,4 @@ This module focuses on the transition from data science theory to professional p
 ## 🔗 Link
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation)
-* **Certification:** IBM Data Science Professional Certificate (Coursera)
+* **Certification:** [Data Scientist Career Guide and Interview Preparation (Coursera)](https://www.coursera.org/account/accomplishments/verify/NGKXL6DH1K7I)
