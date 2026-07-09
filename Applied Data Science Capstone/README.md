@@ -112,4 +112,4 @@ The core objective of this project is to predict whether the first stage of a Fa
 
 * **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard2)
 * **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
-* **Certification:** IBM Data Science Professional Certificate (Coursera)
+* **Certification:** [Applied Data Science Capstone (Coursera)](https://www.coursera.org/account/accomplishments/verify/DBVFJR2L2S5P)
