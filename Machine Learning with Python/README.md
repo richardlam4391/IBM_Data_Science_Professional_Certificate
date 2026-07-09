@@ -70,6 +70,8 @@ The primary objective of this course was to transition from foundational data an
   * **Decision Boundaries** - Visualizing how different classifiers split data classes across two-dimensional feature spaces.
   * **Elbow Method Plots** - Plotting within-cluster sum of squares (WCSS) against the number of clusters ($K$) to mathematically determine the optimal cluster count.
   * **Confusion Matrices** - Detailed heatmaps mapping True Positives vs. False Positives to visually diagnose classification errors.
+
+---
  
 ## 🔗 Links
 
