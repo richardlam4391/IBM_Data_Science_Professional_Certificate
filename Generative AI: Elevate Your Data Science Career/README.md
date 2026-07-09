@@ -10,12 +10,16 @@
 
 This course explores how generative AI models and tools (such as Large Language Models and AI coding assistants) transform the modern data science workflow. It is designed to bridge the gap between traditional machine learning pipelines and emerging generative workflows, teaching data professionals how to optimize data preparation, augment datasets, accelerate feature engineering, and streamline model generation ethically.
 
+---
+
 ## 🎯 Key Findings 
 
 * **Workflow Automation** - Generative AI significantly shrinks the time required for data preprocessing and exploration, allowing data scientists to shift focus to higher-level business intuition.
 * **Overcoming Data Scarcity** - Data synthesis and data augmentation via Generative Adversarial Networks (GANs), Autoencoders, and LLMs offer powerful workarounds for small or unbalanced datasets.
 * **Natural Language Interfaces** - Using natural language prompts to generate production-ready Python code or SQL queries dramatically decreases syntax roadblocks and boosts engineering velocity.
 * **Ethical Guardrails** - Implementing Responsible AI requires strict monitoring of data privacy, prompt injections, hallucination management, and algorithmic bias.
+
+---
 
 ## 🛠️ Technical Stack
 
