@@ -44,9 +44,10 @@ This module focuses on moving from raw data to actionable data-driven insights u
 
 ## 📊 Data Source
 
-* **Primary Dataset** - Automobile Pricing Database / King County House Sales (Standard IBM Data Source)
-* **Description** - Contains comprehensive technical, structural, and performance metrics utilized to predict market valuations.
-* **Attributes** - Features a mix of categorical, continuous numerical, and discrete variables requiring format conversions and imputation.
+* This project covers [House Sales dateset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction):
+   * **Primary Dataset** - Automobile Pricing Database / King County House Sales (Standard IBM Data Source)
+   * **Description** - Contains comprehensive technical, structural, and performance metrics utilized to predict market valuations.
+   * **Attributes** - Features a mix of categorical, continuous numerical, and discrete variables requiring format conversions and imputation.
 
 ---
 
