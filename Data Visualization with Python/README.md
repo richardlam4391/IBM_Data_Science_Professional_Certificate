@@ -56,7 +56,7 @@ This project focuses on harnessing the power of data visualization to extract me
 
 ## 📊 Data Source
 
-* The datasets utilized in this module include:
+* The [datasets](https://www.macrotrends.net/datasets/3203/us-vehicle-sales) utilized in this module include:
   * **Historical Automobile Sales Data** - A specialized dataset containing variables such as Year, Recession Stage, Vehicle Type, Advertising Expenditure, and Unemployment Rate.
 
 ---
