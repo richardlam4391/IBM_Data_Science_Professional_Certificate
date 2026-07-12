@@ -87,7 +87,6 @@ The core objective of this project is to predict whether the first stage of a Fa
 ## 📊 Data Sources
 
 * This project integrates two primary data sources covering [SpaceX Falcon 9](https://docs.spacexdata.com/) and [Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches):
-
  * **SpaceX REST API** - Sourced granular flight attributes, core usage histories, landing intentions, specific block upgrades, and structural outcome variables.
  * **Wikipedia Web Scraping** - Parsed historical launch data tables via BeautifulSoup to manually extract and align supplementary payload metrics and record logs.
  * **Relational Storage** - Exported processed records into an internal SQLite3 instance to easily run multi-table joins, aggregate payload windows, and filter out outlier target metrics.
