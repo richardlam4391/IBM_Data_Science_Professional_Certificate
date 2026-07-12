@@ -12,9 +12,6 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of $62 mil
 
 The core objective of this project is to predict whether the first stage of a Falcon 9 rocket will land successfully. By building a predictive machine learning model, we can accurately determine the actual cost of a launch and provide critical, data-driven financial and operational insights for alternate commercial space launch companies looking to compete with SpaceX.
 
-## Dataset
-Our datasets come from [Spacex](https://docs.spacexdata.com/) and [Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches). 
-
 ### Primary Deliverable
 **Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SpaceXDashboard_17807897119650/Dashboard2)
 
@@ -88,6 +85,8 @@ Our datasets come from [Spacex](https://docs.spacexdata.com/) and [Falcon 9 and 
 ---
 
 ## 📊 Data Sources
+
+This project integrates two primary data sources covering [SpaceX Falcon 9](https://docs.spacexdata.com/) and [Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches):
 
 * **SpaceX REST API** - Sourced granular flight attributes, core usage histories, landing intentions, specific block upgrades, and structural outcome variables.
 * **Wikipedia Web Scraping** - Parsed historical launch data tables via BeautifulSoup to manually extract and align supplementary payload metrics and record logs.
