@@ -46,7 +46,7 @@ The primary objective of this course was to transition from foundational data an
 
 ## 📊 Data Sources
 
-* The models in this module were trained and evaluated using benchmark datasets provided by IBM, including:
+This project covers [Australian Government's Bureau of Meteorology](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?resource=download&select=weatherAUS.csv):  
   * **Loan Application Data** - Historical loan records used to predict whether a customer will pay off or default on a loan.
   * **Telecommunications Customer Churn** - Customer demographics and usage metrics used for predicting churn behaviors.
   * **Automobile Datasets** - Technical specifications of vehicles used to predict fuel consumption and market pricing.
