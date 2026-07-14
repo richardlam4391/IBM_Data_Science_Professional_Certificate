@@ -43,7 +43,7 @@ This project serves as the final capstone element for the **Python Project for D
 
 ## 📊 Data Sources
 
-This project leverages two primary data streams to analyze financial performance for [Tesla (TSLA)](https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue)) and [GameStop (GME)](https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue):
+This project leverages two primary data streams to analyze financial performance for [Tesla (TSLA)](https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue) and [GameStop (GME)](https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue):
 * **Stock Market Data:** Retrieved programmatically using the official `yfinance` (Yahoo Finance) API to stream historical performance metrics, including Open, High, Low, Close, and Volume.
 * **Historical Financials:** Extracted via web scraping from Macrotrends to capture quarterly revenue disclosures spanning multiple fiscal years.
 
