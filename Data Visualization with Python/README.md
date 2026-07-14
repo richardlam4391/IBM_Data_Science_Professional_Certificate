@@ -56,8 +56,10 @@ This project focuses on harnessing the power of data visualization to extract me
 
 ## 📊 Data Source
 
-* The [datasets](https://www.macrotrends.net/datasets/3203/us-vehicle-sales) utilized in this module include:
-  * **Historical Automobile Sales Data** - A specialized dataset containing variables such as Year, Recession Stage, Vehicle Type, Advertising Expenditure, and Unemployment Rate.
+This module utilizes specialized [Historical Automobile Sales Data](https://www.macrotrends.net/datasets/3203/us-vehicle-sales) to analyze market trends:
+* **Dataset Focus:** Historical automotive industry sales metrics mapped against broader macroeconomic indicators.
+* **Key Features:** Contains critical variables including Year, Recession Status, Vehicle Type, Advertising Expenditure, and Unemployment Rates.
+* **Analytical Objective:** Evaluates how economic downturns impact consumer behavior and vehicle sales segments over time.
 
 ---
 
