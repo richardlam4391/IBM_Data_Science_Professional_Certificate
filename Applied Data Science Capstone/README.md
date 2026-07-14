@@ -84,12 +84,13 @@ The core objective of this project is to predict whether the first stage of a Fa
 
 ---
 
-## 📊 Data Sources
+## 📊 Data Engineering & Sources
 
-* This project integrates two primary data sources covering [SpaceX Falcon 9](https://docs.spacexdata.com/) and [Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches):
- * **SpaceX REST API** - Sourced granular flight attributes, core usage histories, landing intentions, specific block upgrades, and structural outcome variables.
- * **Wikipedia Web Scraping** - Parsed historical launch data tables via BeautifulSoup to manually extract and align supplementary payload metrics and record logs.
- * **Relational Storage** - Exported processed records into an internal SQLite3 instance to easily run multi-table joins, aggregate payload windows, and filter out outlier target metrics.
+To predict the landing success of SpaceX Falcon 9 first-stage boosters, a multi-source data pipeline was engineered using the following components:
+
+* **API Ingestion:** Leveraged the official [SpaceX REST API](https://docs.spacexdata.com/) to programmatically extract flight characteristics, core reusability, booster blocks, and landing outcomes.
+* **Web Scraping:** Constructed a BeautifulSoup scraper to extract tabular historical records from [Wikipedia](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches), capturing key payload masses and customer classifications.
+* **SQL Warehousing:** Built an SQLite3 database instance to aggregate, join, and filter the combined datasets for downstream analysis and machine learning.
 
 ---
 
