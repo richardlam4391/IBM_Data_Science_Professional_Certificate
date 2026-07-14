@@ -46,11 +46,13 @@ The primary objective of this course was to transition from foundational data an
 
 ## 📊 Data Sources
 
-This project covers [Australian Government's Bureau of Meteorology](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?resource=download&select=weatherAUS.csv):  
-  * **Loan Application Data** - Historical loan records used to predict whether a customer will pay off or default on a loan.
-  * **Telecommunications Customer Churn** - Customer demographics and usage metrics used for predicting churn behaviors.
-  * **Automobile Datasets** - Technical specifications of vehicles used to predict fuel consumption and market pricing.
-  * **Co2 Emissions Data** - Engine features utilized to model and predict environmental impact trends.
+This module features multiple hands-on machine learning projects, utilizing real-world and simulated benchmark datasets to train, evaluate, and fine-tune models:
+
+* **Rainfall Prediction (Final Project):** Weather observations from the [Australian Government's Bureau of Meteorology](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?resource=download&select=weatherAUS.csv), used to build and compare classification models to predict next-day precipitation.
+* **Credit & Loan Applications:** Historical customer profiles and financial records used to classify loan repayment outcomes (Paid Off vs. Default).
+* **Telecommunications Churn:** Customer demographics, plan details, and usage metrics leveraged to predict customer retention and churn behaviors.
+* **Automobile Pricing & Efficiency:** Technical vehicle specifications utilized to model regression lines for fuel consumption and market valuation.
+* **CO2 Emissions:** Engine specifications and fuel consumption profiles mapped to predict and analyze greenhouse gas emission trends.
  
 ---
 
